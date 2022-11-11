@@ -1,7 +1,6 @@
 #!/bin/bash
 set -eux
 
-cd neo4j_temp
 neo4j-community-3.5.8/bin/neo4j stop
 
 exec "$@"
