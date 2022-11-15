@@ -1,0 +1,1128 @@
+spring-petclinic-2.4.5.jar -> not found
+spring-petclinic-2.4.5.jar -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+   org.springframework.boot.loader.ClassPathIndexFile -> java.io.BufferedReader                             
+   org.springframework.boot.loader.ClassPathIndexFile -> java.io.File                                       
+   org.springframework.boot.loader.ClassPathIndexFile -> java.io.FileInputStream                            
+   org.springframework.boot.loader.ClassPathIndexFile -> java.io.IOException                                
+   org.springframework.boot.loader.ClassPathIndexFile -> java.io.InputStream                                
+   org.springframework.boot.loader.ClassPathIndexFile -> java.io.InputStreamReader                          
+   org.springframework.boot.loader.ClassPathIndexFile -> java.io.Reader                                     
+   org.springframework.boot.loader.ClassPathIndexFile -> java.lang.IllegalArgumentException                 
+   org.springframework.boot.loader.ClassPathIndexFile -> java.lang.IllegalStateException                    
+   org.springframework.boot.loader.ClassPathIndexFile -> java.lang.Object                                   
+   org.springframework.boot.loader.ClassPathIndexFile -> java.lang.String                                   
+   org.springframework.boot.loader.ClassPathIndexFile -> java.lang.StringBuilder                            
+   org.springframework.boot.loader.ClassPathIndexFile -> java.lang.Throwable                                
+   org.springframework.boot.loader.ClassPathIndexFile -> java.lang.invoke.CallSite                          
+   org.springframework.boot.loader.ClassPathIndexFile -> java.lang.invoke.LambdaMetafactory                 
+   org.springframework.boot.loader.ClassPathIndexFile -> java.lang.invoke.MethodHandle                      
+   org.springframework.boot.loader.ClassPathIndexFile -> java.lang.invoke.MethodHandles                     
+   org.springframework.boot.loader.ClassPathIndexFile -> java.lang.invoke.MethodHandles$Lookup              
+   org.springframework.boot.loader.ClassPathIndexFile -> java.lang.invoke.MethodType                        
+   org.springframework.boot.loader.ClassPathIndexFile -> java.net.MalformedURLException                     
+   org.springframework.boot.loader.ClassPathIndexFile -> java.net.URI                                       
+   org.springframework.boot.loader.ClassPathIndexFile -> java.net.URISyntaxException                        
+   org.springframework.boot.loader.ClassPathIndexFile -> java.net.URL                                       
+   org.springframework.boot.loader.ClassPathIndexFile -> java.nio.charset.Charset                           
+   org.springframework.boot.loader.ClassPathIndexFile -> java.nio.charset.StandardCharsets                  
+   org.springframework.boot.loader.ClassPathIndexFile -> java.util.ArrayList                                
+   org.springframework.boot.loader.ClassPathIndexFile -> java.util.Collections                              
+   org.springframework.boot.loader.ClassPathIndexFile -> java.util.List                                     
+   org.springframework.boot.loader.ClassPathIndexFile -> java.util.function.Function                        
+   org.springframework.boot.loader.ClassPathIndexFile -> java.util.stream.Collector                         
+   org.springframework.boot.loader.ClassPathIndexFile -> java.util.stream.Collectors                        
+   org.springframework.boot.loader.ClassPathIndexFile -> java.util.stream.Stream                            
+   org.springframework.boot.loader.ExecutableArchiveLauncher -> java.io.IOException                                
+   org.springframework.boot.loader.ExecutableArchiveLauncher -> java.lang.ClassLoader                              
+   org.springframework.boot.loader.ExecutableArchiveLauncher -> java.lang.Exception                                
+   org.springframework.boot.loader.ExecutableArchiveLauncher -> java.lang.IllegalStateException                    
+   org.springframework.boot.loader.ExecutableArchiveLauncher -> java.lang.Object                                   
+   org.springframework.boot.loader.ExecutableArchiveLauncher -> java.lang.String                                   
+   org.springframework.boot.loader.ExecutableArchiveLauncher -> java.lang.StringBuilder                            
+   org.springframework.boot.loader.ExecutableArchiveLauncher -> java.lang.Throwable                                
+   org.springframework.boot.loader.ExecutableArchiveLauncher -> java.lang.invoke.CallSite                          
+   org.springframework.boot.loader.ExecutableArchiveLauncher -> java.lang.invoke.LambdaMetafactory                 
+   org.springframework.boot.loader.ExecutableArchiveLauncher -> java.lang.invoke.MethodHandle                      
+   org.springframework.boot.loader.ExecutableArchiveLauncher -> java.lang.invoke.MethodHandles                     
+   org.springframework.boot.loader.ExecutableArchiveLauncher -> java.lang.invoke.MethodHandles$Lookup              
+   org.springframework.boot.loader.ExecutableArchiveLauncher -> java.lang.invoke.MethodType                        
+   org.springframework.boot.loader.ExecutableArchiveLauncher -> java.net.URL                                       
+   org.springframework.boot.loader.ExecutableArchiveLauncher -> java.util.ArrayList                                
+   org.springframework.boot.loader.ExecutableArchiveLauncher -> java.util.Collection                               
+   org.springframework.boot.loader.ExecutableArchiveLauncher -> java.util.Iterator                                 
+   org.springframework.boot.loader.ExecutableArchiveLauncher -> java.util.List                                     
+   org.springframework.boot.loader.ExecutableArchiveLauncher -> java.util.jar.Attributes                           
+   org.springframework.boot.loader.ExecutableArchiveLauncher -> java.util.jar.Manifest                             
+   org.springframework.boot.loader.ExecutableArchiveLauncher -> org.springframework.boot.loader.ClassPathIndexFile spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.ExecutableArchiveLauncher -> org.springframework.boot.loader.Launcher           spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.ExecutableArchiveLauncher -> org.springframework.boot.loader.archive.Archive    spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.ExecutableArchiveLauncher -> org.springframework.boot.loader.archive.Archive$Entry spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.ExecutableArchiveLauncher -> org.springframework.boot.loader.archive.Archive$EntryFilter spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.JarLauncher        -> java.io.IOException                                
+   org.springframework.boot.loader.JarLauncher        -> java.lang.Exception                                
+   org.springframework.boot.loader.JarLauncher        -> java.lang.Object                                   
+   org.springframework.boot.loader.JarLauncher        -> java.lang.String                                   
+   org.springframework.boot.loader.JarLauncher        -> java.lang.invoke.CallSite                          
+   org.springframework.boot.loader.JarLauncher        -> java.lang.invoke.LambdaMetafactory                 
+   org.springframework.boot.loader.JarLauncher        -> java.lang.invoke.MethodHandle                      
+   org.springframework.boot.loader.JarLauncher        -> java.lang.invoke.MethodHandles                     
+   org.springframework.boot.loader.JarLauncher        -> java.lang.invoke.MethodHandles$Lookup              
+   org.springframework.boot.loader.JarLauncher        -> java.lang.invoke.MethodType                        
+   org.springframework.boot.loader.JarLauncher        -> java.net.URL                                       
+   org.springframework.boot.loader.JarLauncher        -> java.util.jar.Attributes                           
+   org.springframework.boot.loader.JarLauncher        -> java.util.jar.Manifest                             
+   org.springframework.boot.loader.JarLauncher        -> org.springframework.boot.loader.ClassPathIndexFile spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.JarLauncher        -> org.springframework.boot.loader.ExecutableArchiveLauncher spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.JarLauncher        -> org.springframework.boot.loader.archive.Archive    spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.JarLauncher        -> org.springframework.boot.loader.archive.Archive$Entry spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.JarLauncher        -> org.springframework.boot.loader.archive.Archive$EntryFilter spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.JarLauncher        -> org.springframework.boot.loader.archive.ExplodedArchive spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.io.ByteArrayOutputStream                      
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.io.IOException                                
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.io.InputStream                                
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.lang.AssertionError                           
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.lang.Class                                    
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.lang.ClassLoader                              
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.lang.ClassNotFoundException                   
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.lang.Exception                                
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.lang.IllegalArgumentException                 
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.lang.Object                                   
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.lang.Package                                  
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.lang.String                                   
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.lang.StringBuilder                            
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.lang.Throwable                                
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.lang.invoke.CallSite                          
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.lang.invoke.LambdaMetafactory                 
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.lang.invoke.MethodHandle                      
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.lang.invoke.MethodHandles                     
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.lang.invoke.MethodHandles$Lookup              
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.lang.invoke.MethodType                        
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.net.JarURLConnection                          
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.net.URL                                       
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.net.URLClassLoader                            
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.net.URLConnection                             
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.security.AccessControlContext                 
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.security.AccessController                     
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.security.PrivilegedActionException            
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.security.PrivilegedExceptionAction            
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.util.Enumeration                              
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.util.function.Supplier                        
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.util.jar.JarFile                              
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.util.jar.Manifest                             
+   org.springframework.boot.loader.LaunchedURLClassLoader -> java.util.zip.ZipEntry                             
+   org.springframework.boot.loader.LaunchedURLClassLoader -> org.springframework.boot.loader.LaunchedURLClassLoader$DefinePackageCallType spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.LaunchedURLClassLoader -> org.springframework.boot.loader.LaunchedURLClassLoader$UseFastConnectionExceptionsEnumeration spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.LaunchedURLClassLoader -> org.springframework.boot.loader.archive.Archive    spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.LaunchedURLClassLoader -> org.springframework.boot.loader.jar.Handler        spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.LaunchedURLClassLoader -> org.springframework.boot.loader.jar.JarFile        spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.LaunchedURLClassLoader$DefinePackageCallType -> java.lang.Class                                    
+   org.springframework.boot.loader.LaunchedURLClassLoader$DefinePackageCallType -> java.lang.Enum                                     
+   org.springframework.boot.loader.LaunchedURLClassLoader$DefinePackageCallType -> java.lang.Object                                   
+   org.springframework.boot.loader.LaunchedURLClassLoader$DefinePackageCallType -> java.lang.String                                   
+   org.springframework.boot.loader.LaunchedURLClassLoader$DefinePackageCallType -> org.springframework.boot.loader.LaunchedURLClassLoader spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.LaunchedURLClassLoader$UseFastConnectionExceptionsEnumeration -> java.lang.Object                                   
+   org.springframework.boot.loader.LaunchedURLClassLoader$UseFastConnectionExceptionsEnumeration -> java.lang.Throwable                                
+   org.springframework.boot.loader.LaunchedURLClassLoader$UseFastConnectionExceptionsEnumeration -> java.net.URL                                       
+   org.springframework.boot.loader.LaunchedURLClassLoader$UseFastConnectionExceptionsEnumeration -> java.util.Enumeration                              
+   org.springframework.boot.loader.LaunchedURLClassLoader$UseFastConnectionExceptionsEnumeration -> org.springframework.boot.loader.LaunchedURLClassLoader spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.LaunchedURLClassLoader$UseFastConnectionExceptionsEnumeration -> org.springframework.boot.loader.jar.Handler        spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.Launcher           -> java.io.File                                       
+   org.springframework.boot.loader.Launcher           -> java.lang.Class                                    
+   org.springframework.boot.loader.Launcher           -> java.lang.ClassLoader                              
+   org.springframework.boot.loader.Launcher           -> java.lang.Deprecated                               
+   org.springframework.boot.loader.Launcher           -> java.lang.Exception                                
+   org.springframework.boot.loader.Launcher           -> java.lang.IllegalStateException                    
+   org.springframework.boot.loader.Launcher           -> java.lang.Object                                   
+   org.springframework.boot.loader.Launcher           -> java.lang.String                                   
+   org.springframework.boot.loader.Launcher           -> java.lang.StringBuilder                            
+   org.springframework.boot.loader.Launcher           -> java.lang.System                                   
+   org.springframework.boot.loader.Launcher           -> java.lang.Thread                                   
+   org.springframework.boot.loader.Launcher           -> java.net.URI                                       
+   org.springframework.boot.loader.Launcher           -> java.net.URL                                       
+   org.springframework.boot.loader.Launcher           -> java.security.CodeSource                           
+   org.springframework.boot.loader.Launcher           -> java.security.ProtectionDomain                     
+   org.springframework.boot.loader.Launcher           -> java.util.ArrayList                                
+   org.springframework.boot.loader.Launcher           -> java.util.Iterator                                 
+   org.springframework.boot.loader.Launcher           -> java.util.List                                     
+   org.springframework.boot.loader.Launcher           -> org.springframework.boot.loader.LaunchedURLClassLoader spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.Launcher           -> org.springframework.boot.loader.MainMethodRunner   spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.Launcher           -> org.springframework.boot.loader.archive.Archive    spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.Launcher           -> org.springframework.boot.loader.archive.ExplodedArchive spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.Launcher           -> org.springframework.boot.loader.archive.JarFileArchive spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.Launcher           -> org.springframework.boot.loader.jar.JarFile        spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.MainMethodRunner   -> java.lang.Class                                    
+   org.springframework.boot.loader.MainMethodRunner   -> java.lang.ClassLoader                              
+   org.springframework.boot.loader.MainMethodRunner   -> java.lang.Exception                                
+   org.springframework.boot.loader.MainMethodRunner   -> java.lang.Object                                   
+   org.springframework.boot.loader.MainMethodRunner   -> java.lang.String                                   
+   org.springframework.boot.loader.MainMethodRunner   -> java.lang.Thread                                   
+   org.springframework.boot.loader.MainMethodRunner   -> java.lang.reflect.Method                           
+   org.springframework.boot.loader.PropertiesLauncher -> java.io.File                                       
+   org.springframework.boot.loader.PropertiesLauncher -> java.io.FileInputStream                            
+   org.springframework.boot.loader.PropertiesLauncher -> java.io.IOException                                
+   org.springframework.boot.loader.PropertiesLauncher -> java.io.InputStream                                
+   org.springframework.boot.loader.PropertiesLauncher -> java.io.PrintStream                                
+   org.springframework.boot.loader.PropertiesLauncher -> java.io.UnsupportedEncodingException               
+   org.springframework.boot.loader.PropertiesLauncher -> java.lang.Boolean                                  
+   org.springframework.boot.loader.PropertiesLauncher -> java.lang.CharSequence                             
+   org.springframework.boot.loader.PropertiesLauncher -> java.lang.Character                                
+   org.springframework.boot.loader.PropertiesLauncher -> java.lang.Class                                    
+   org.springframework.boot.loader.PropertiesLauncher -> java.lang.ClassLoader                              
+   org.springframework.boot.loader.PropertiesLauncher -> java.lang.Exception                                
+   org.springframework.boot.loader.PropertiesLauncher -> java.lang.IllegalArgumentException                 
+   org.springframework.boot.loader.PropertiesLauncher -> java.lang.IllegalStateException                    
+   org.springframework.boot.loader.PropertiesLauncher -> java.lang.NoSuchMethodException                    
+   org.springframework.boot.loader.PropertiesLauncher -> java.lang.Object                                   
+   org.springframework.boot.loader.PropertiesLauncher -> java.lang.String                                   
+   org.springframework.boot.loader.PropertiesLauncher -> java.lang.StringBuilder                            
+   org.springframework.boot.loader.PropertiesLauncher -> java.lang.System                                   
+   org.springframework.boot.loader.PropertiesLauncher -> java.lang.Throwable                                
+   org.springframework.boot.loader.PropertiesLauncher -> java.lang.reflect.Constructor                      
+   org.springframework.boot.loader.PropertiesLauncher -> java.net.HttpURLConnection                         
+   org.springframework.boot.loader.PropertiesLauncher -> java.net.URL                                       
+   org.springframework.boot.loader.PropertiesLauncher -> java.net.URLConnection                             
+   org.springframework.boot.loader.PropertiesLauncher -> java.net.URLDecoder                                
+   org.springframework.boot.loader.PropertiesLauncher -> java.util.ArrayList                                
+   org.springframework.boot.loader.PropertiesLauncher -> java.util.Collections                              
+   org.springframework.boot.loader.PropertiesLauncher -> java.util.Enumeration                              
+   org.springframework.boot.loader.PropertiesLauncher -> java.util.Iterator                                 
+   org.springframework.boot.loader.PropertiesLauncher -> java.util.LinkedHashSet                            
+   org.springframework.boot.loader.PropertiesLauncher -> java.util.List                                     
+   org.springframework.boot.loader.PropertiesLauncher -> java.util.Locale                                   
+   org.springframework.boot.loader.PropertiesLauncher -> java.util.Properties                               
+   org.springframework.boot.loader.PropertiesLauncher -> java.util.Set                                      
+   org.springframework.boot.loader.PropertiesLauncher -> java.util.jar.Attributes                           
+   org.springframework.boot.loader.PropertiesLauncher -> java.util.jar.Manifest                             
+   org.springframework.boot.loader.PropertiesLauncher -> java.util.regex.Matcher                            
+   org.springframework.boot.loader.PropertiesLauncher -> java.util.regex.Pattern                            
+   org.springframework.boot.loader.PropertiesLauncher -> org.springframework.boot.loader.LaunchedURLClassLoader spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.PropertiesLauncher -> org.springframework.boot.loader.Launcher           spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.PropertiesLauncher -> org.springframework.boot.loader.PropertiesLauncher$1 spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.PropertiesLauncher -> org.springframework.boot.loader.PropertiesLauncher$ArchiveEntryFilter spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.PropertiesLauncher -> org.springframework.boot.loader.PropertiesLauncher$ClassPathArchives spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.PropertiesLauncher -> org.springframework.boot.loader.PropertiesLauncher$PrefixMatchingArchiveFilter spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.PropertiesLauncher -> org.springframework.boot.loader.archive.Archive    spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.PropertiesLauncher -> org.springframework.boot.loader.archive.ExplodedArchive spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.PropertiesLauncher -> org.springframework.boot.loader.util.SystemPropertyUtils spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.PropertiesLauncher$1 -> java.lang.Object                                   
+   org.springframework.boot.loader.PropertiesLauncher$1 -> org.springframework.boot.loader.PropertiesLauncher spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.PropertiesLauncher$ArchiveEntryFilter -> java.lang.Object                                   
+   org.springframework.boot.loader.PropertiesLauncher$ArchiveEntryFilter -> java.lang.String                                   
+   org.springframework.boot.loader.PropertiesLauncher$ArchiveEntryFilter -> org.springframework.boot.loader.PropertiesLauncher spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.PropertiesLauncher$ArchiveEntryFilter -> org.springframework.boot.loader.PropertiesLauncher$1 spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.PropertiesLauncher$ArchiveEntryFilter -> org.springframework.boot.loader.archive.Archive    spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.PropertiesLauncher$ArchiveEntryFilter -> org.springframework.boot.loader.archive.Archive$Entry spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.PropertiesLauncher$ArchiveEntryFilter -> org.springframework.boot.loader.archive.Archive$EntryFilter spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.PropertiesLauncher$ClassPathArchives -> java.io.File                                       
+   org.springframework.boot.loader.PropertiesLauncher$ClassPathArchives -> java.io.IOException                                
+   org.springframework.boot.loader.PropertiesLauncher$ClassPathArchives -> java.lang.CharSequence                             
+   org.springframework.boot.loader.PropertiesLauncher$ClassPathArchives -> java.lang.Exception                                
+   org.springframework.boot.loader.PropertiesLauncher$ClassPathArchives -> java.lang.Iterable                                 
+   org.springframework.boot.loader.PropertiesLauncher$ClassPathArchives -> java.lang.Object                                   
+   org.springframework.boot.loader.PropertiesLauncher$ClassPathArchives -> java.lang.String                                   
+   org.springframework.boot.loader.PropertiesLauncher$ClassPathArchives -> java.lang.StringBuilder                            
+   org.springframework.boot.loader.PropertiesLauncher$ClassPathArchives -> java.net.URI                                       
+   org.springframework.boot.loader.PropertiesLauncher$ClassPathArchives -> java.net.URL                                       
+   org.springframework.boot.loader.PropertiesLauncher$ClassPathArchives -> java.util.ArrayList                                
+   org.springframework.boot.loader.PropertiesLauncher$ClassPathArchives -> java.util.Collection                               
+   org.springframework.boot.loader.PropertiesLauncher$ClassPathArchives -> java.util.Iterator                                 
+   org.springframework.boot.loader.PropertiesLauncher$ClassPathArchives -> java.util.List                                     
+   org.springframework.boot.loader.PropertiesLauncher$ClassPathArchives -> java.util.Locale                                   
+   org.springframework.boot.loader.PropertiesLauncher$ClassPathArchives -> org.springframework.boot.loader.JarLauncher        spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.PropertiesLauncher$ClassPathArchives -> org.springframework.boot.loader.PropertiesLauncher spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.PropertiesLauncher$ClassPathArchives -> org.springframework.boot.loader.PropertiesLauncher$1 spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.PropertiesLauncher$ClassPathArchives -> org.springframework.boot.loader.PropertiesLauncher$ArchiveEntryFilter spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.PropertiesLauncher$ClassPathArchives -> org.springframework.boot.loader.PropertiesLauncher$PrefixMatchingArchiveFilter spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.PropertiesLauncher$ClassPathArchives -> org.springframework.boot.loader.archive.Archive    spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.PropertiesLauncher$ClassPathArchives -> org.springframework.boot.loader.archive.Archive$EntryFilter spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.PropertiesLauncher$ClassPathArchives -> org.springframework.boot.loader.archive.ExplodedArchive spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.PropertiesLauncher$ClassPathArchives -> org.springframework.boot.loader.archive.JarFileArchive spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.PropertiesLauncher$PrefixMatchingArchiveFilter -> java.lang.Object                                   
+   org.springframework.boot.loader.PropertiesLauncher$PrefixMatchingArchiveFilter -> java.lang.String                                   
+   org.springframework.boot.loader.PropertiesLauncher$PrefixMatchingArchiveFilter -> org.springframework.boot.loader.PropertiesLauncher spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.PropertiesLauncher$PrefixMatchingArchiveFilter -> org.springframework.boot.loader.PropertiesLauncher$1 spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.PropertiesLauncher$PrefixMatchingArchiveFilter -> org.springframework.boot.loader.PropertiesLauncher$ArchiveEntryFilter spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.PropertiesLauncher$PrefixMatchingArchiveFilter -> org.springframework.boot.loader.archive.Archive    spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.PropertiesLauncher$PrefixMatchingArchiveFilter -> org.springframework.boot.loader.archive.Archive$Entry spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.PropertiesLauncher$PrefixMatchingArchiveFilter -> org.springframework.boot.loader.archive.Archive$EntryFilter spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.WarLauncher        -> java.lang.Exception                                
+   org.springframework.boot.loader.WarLauncher        -> java.lang.Object                                   
+   org.springframework.boot.loader.WarLauncher        -> java.lang.String                                   
+   org.springframework.boot.loader.WarLauncher        -> org.springframework.boot.loader.ExecutableArchiveLauncher spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.WarLauncher        -> org.springframework.boot.loader.archive.Archive    spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.WarLauncher        -> org.springframework.boot.loader.archive.Archive$Entry spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.Archive    -> java.io.IOException                                
+   org.springframework.boot.loader.archive.Archive    -> java.lang.AutoCloseable                            
+   org.springframework.boot.loader.archive.Archive    -> java.lang.Deprecated                               
+   org.springframework.boot.loader.archive.Archive    -> java.lang.Exception                                
+   org.springframework.boot.loader.archive.Archive    -> java.lang.IllegalStateException                    
+   org.springframework.boot.loader.archive.Archive    -> java.lang.Iterable                                 
+   org.springframework.boot.loader.archive.Archive    -> java.lang.Object                                   
+   org.springframework.boot.loader.archive.Archive    -> java.lang.String                                   
+   org.springframework.boot.loader.archive.Archive    -> java.lang.invoke.CallSite                          
+   org.springframework.boot.loader.archive.Archive    -> java.lang.invoke.LambdaMetafactory                 
+   org.springframework.boot.loader.archive.Archive    -> java.lang.invoke.MethodHandle                      
+   org.springframework.boot.loader.archive.Archive    -> java.lang.invoke.MethodHandles                     
+   org.springframework.boot.loader.archive.Archive    -> java.lang.invoke.MethodHandles$Lookup              
+   org.springframework.boot.loader.archive.Archive    -> java.lang.invoke.MethodType                        
+   org.springframework.boot.loader.archive.Archive    -> java.net.MalformedURLException                     
+   org.springframework.boot.loader.archive.Archive    -> java.net.URL                                       
+   org.springframework.boot.loader.archive.Archive    -> java.util.Iterator                                 
+   org.springframework.boot.loader.archive.Archive    -> java.util.List                                     
+   org.springframework.boot.loader.archive.Archive    -> java.util.Objects                                  
+   org.springframework.boot.loader.archive.Archive    -> java.util.Spliterator                              
+   org.springframework.boot.loader.archive.Archive    -> java.util.Spliterators                             
+   org.springframework.boot.loader.archive.Archive    -> java.util.function.Consumer                        
+   org.springframework.boot.loader.archive.Archive    -> java.util.jar.Manifest                             
+   org.springframework.boot.loader.archive.Archive    -> org.springframework.boot.loader.archive.Archive$Entry spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.Archive    -> org.springframework.boot.loader.archive.Archive$EntryFilter spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.Archive$Entry -> java.lang.Object                                   
+   org.springframework.boot.loader.archive.Archive$Entry -> java.lang.String                                   
+   org.springframework.boot.loader.archive.Archive$Entry -> org.springframework.boot.loader.archive.Archive    spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.Archive$EntryFilter -> java.lang.FunctionalInterface                      
+   org.springframework.boot.loader.archive.Archive$EntryFilter -> java.lang.Object                                   
+   org.springframework.boot.loader.archive.Archive$EntryFilter -> org.springframework.boot.loader.archive.Archive    spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.Archive$EntryFilter -> org.springframework.boot.loader.archive.Archive$Entry spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive -> java.io.File                                       
+   org.springframework.boot.loader.archive.ExplodedArchive -> java.io.FileInputStream                            
+   org.springframework.boot.loader.archive.ExplodedArchive -> java.io.IOException                                
+   org.springframework.boot.loader.archive.ExplodedArchive -> java.io.InputStream                                
+   org.springframework.boot.loader.archive.ExplodedArchive -> java.lang.Deprecated                               
+   org.springframework.boot.loader.archive.ExplodedArchive -> java.lang.Exception                                
+   org.springframework.boot.loader.archive.ExplodedArchive -> java.lang.IllegalArgumentException                 
+   org.springframework.boot.loader.archive.ExplodedArchive -> java.lang.Object                                   
+   org.springframework.boot.loader.archive.ExplodedArchive -> java.lang.String                                   
+   org.springframework.boot.loader.archive.ExplodedArchive -> java.lang.StringBuilder                            
+   org.springframework.boot.loader.archive.ExplodedArchive -> java.lang.Throwable                                
+   org.springframework.boot.loader.archive.ExplodedArchive -> java.net.MalformedURLException                     
+   org.springframework.boot.loader.archive.ExplodedArchive -> java.net.URI                                       
+   org.springframework.boot.loader.archive.ExplodedArchive -> java.net.URL                                       
+   org.springframework.boot.loader.archive.ExplodedArchive -> java.util.Arrays                                   
+   org.springframework.boot.loader.archive.ExplodedArchive -> java.util.Collection                               
+   org.springframework.boot.loader.archive.ExplodedArchive -> java.util.HashSet                                  
+   org.springframework.boot.loader.archive.ExplodedArchive -> java.util.Iterator                                 
+   org.springframework.boot.loader.archive.ExplodedArchive -> java.util.List                                     
+   org.springframework.boot.loader.archive.ExplodedArchive -> java.util.Set                                      
+   org.springframework.boot.loader.archive.ExplodedArchive -> java.util.jar.Manifest                             
+   org.springframework.boot.loader.archive.ExplodedArchive -> org.springframework.boot.loader.archive.Archive    spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive -> org.springframework.boot.loader.archive.Archive$Entry spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive -> org.springframework.boot.loader.archive.Archive$EntryFilter spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive -> org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive -> org.springframework.boot.loader.archive.ExplodedArchive$ArchiveIterator spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive -> org.springframework.boot.loader.archive.ExplodedArchive$EntryIterator spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive -> org.springframework.boot.loader.archive.ExplodedArchive$FileEntry spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive -> org.springframework.boot.loader.archive.ExplodedArchive$SimpleJarFileArchive spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator -> java.io.File                                       
+   org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator -> java.lang.IllegalStateException                    
+   org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator -> java.lang.Object                                   
+   org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator -> java.lang.String                                   
+   org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator -> java.lang.Throwable                                
+   org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator -> java.lang.UnsupportedOperationException            
+   org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator -> java.lang.invoke.CallSite                          
+   org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator -> java.lang.invoke.LambdaMetafactory                 
+   org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator -> java.lang.invoke.MethodHandle                      
+   org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator -> java.lang.invoke.MethodHandles                     
+   org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator -> java.lang.invoke.MethodHandles$Lookup              
+   org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator -> java.lang.invoke.MethodType                        
+   org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator -> java.net.MalformedURLException                     
+   org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator -> java.net.URI                                       
+   org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator -> java.net.URL                                       
+   org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator -> java.util.Arrays                                   
+   org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator -> java.util.Collections                              
+   org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator -> java.util.Comparator                               
+   org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator -> java.util.Deque                                    
+   org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator -> java.util.Iterator                                 
+   org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator -> java.util.LinkedList                               
+   org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator -> java.util.List                                     
+   org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator -> java.util.NoSuchElementException                   
+   org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator -> java.util.Set                                      
+   org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator -> java.util.function.Function                        
+   org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator -> org.springframework.boot.loader.archive.Archive    spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator -> org.springframework.boot.loader.archive.Archive$Entry spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator -> org.springframework.boot.loader.archive.Archive$EntryFilter spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator -> org.springframework.boot.loader.archive.ExplodedArchive spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator -> org.springframework.boot.loader.archive.ExplodedArchive$FileEntry spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive$ArchiveIterator -> java.io.File                                       
+   org.springframework.boot.loader.archive.ExplodedArchive$ArchiveIterator -> java.lang.Object                                   
+   org.springframework.boot.loader.archive.ExplodedArchive$ArchiveIterator -> org.springframework.boot.loader.archive.Archive    spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive$ArchiveIterator -> org.springframework.boot.loader.archive.Archive$EntryFilter spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive$ArchiveIterator -> org.springframework.boot.loader.archive.ExplodedArchive spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive$ArchiveIterator -> org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive$ArchiveIterator -> org.springframework.boot.loader.archive.ExplodedArchive$FileEntry spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive$ArchiveIterator -> org.springframework.boot.loader.archive.ExplodedArchive$SimpleJarFileArchive spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive$EntryIterator -> java.io.File                                       
+   org.springframework.boot.loader.archive.ExplodedArchive$EntryIterator -> java.lang.Object                                   
+   org.springframework.boot.loader.archive.ExplodedArchive$EntryIterator -> org.springframework.boot.loader.archive.Archive    spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive$EntryIterator -> org.springframework.boot.loader.archive.Archive$Entry spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive$EntryIterator -> org.springframework.boot.loader.archive.Archive$EntryFilter spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive$EntryIterator -> org.springframework.boot.loader.archive.ExplodedArchive spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive$EntryIterator -> org.springframework.boot.loader.archive.ExplodedArchive$AbstractIterator spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive$EntryIterator -> org.springframework.boot.loader.archive.ExplodedArchive$FileEntry spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive$FileEntry -> java.io.File                                       
+   org.springframework.boot.loader.archive.ExplodedArchive$FileEntry -> java.lang.Object                                   
+   org.springframework.boot.loader.archive.ExplodedArchive$FileEntry -> java.lang.String                                   
+   org.springframework.boot.loader.archive.ExplodedArchive$FileEntry -> java.net.URL                                       
+   org.springframework.boot.loader.archive.ExplodedArchive$FileEntry -> org.springframework.boot.loader.archive.Archive    spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive$FileEntry -> org.springframework.boot.loader.archive.Archive$Entry spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive$FileEntry -> org.springframework.boot.loader.archive.ExplodedArchive spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive$SimpleJarFileArchive -> java.io.IOException                                
+   org.springframework.boot.loader.archive.ExplodedArchive$SimpleJarFileArchive -> java.lang.Deprecated                               
+   org.springframework.boot.loader.archive.ExplodedArchive$SimpleJarFileArchive -> java.lang.Exception                                
+   org.springframework.boot.loader.archive.ExplodedArchive$SimpleJarFileArchive -> java.lang.Object                                   
+   org.springframework.boot.loader.archive.ExplodedArchive$SimpleJarFileArchive -> java.lang.String                                   
+   org.springframework.boot.loader.archive.ExplodedArchive$SimpleJarFileArchive -> java.net.MalformedURLException                     
+   org.springframework.boot.loader.archive.ExplodedArchive$SimpleJarFileArchive -> java.net.URL                                       
+   org.springframework.boot.loader.archive.ExplodedArchive$SimpleJarFileArchive -> java.util.Collections                              
+   org.springframework.boot.loader.archive.ExplodedArchive$SimpleJarFileArchive -> java.util.Iterator                                 
+   org.springframework.boot.loader.archive.ExplodedArchive$SimpleJarFileArchive -> java.util.jar.Manifest                             
+   org.springframework.boot.loader.archive.ExplodedArchive$SimpleJarFileArchive -> org.springframework.boot.loader.archive.Archive    spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive$SimpleJarFileArchive -> org.springframework.boot.loader.archive.Archive$Entry spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive$SimpleJarFileArchive -> org.springframework.boot.loader.archive.Archive$EntryFilter spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive$SimpleJarFileArchive -> org.springframework.boot.loader.archive.ExplodedArchive spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.ExplodedArchive$SimpleJarFileArchive -> org.springframework.boot.loader.archive.ExplodedArchive$FileEntry spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.JarFileArchive -> java.io.File                                       
+   org.springframework.boot.loader.archive.JarFileArchive -> java.io.IOException                                
+   org.springframework.boot.loader.archive.JarFileArchive -> java.io.InputStream                                
+   org.springframework.boot.loader.archive.JarFileArchive -> java.io.OutputStream                               
+   org.springframework.boot.loader.archive.JarFileArchive -> java.lang.Deprecated                               
+   org.springframework.boot.loader.archive.JarFileArchive -> java.lang.Enum                                     
+   org.springframework.boot.loader.archive.JarFileArchive -> java.lang.Exception                                
+   org.springframework.boot.loader.archive.JarFileArchive -> java.lang.IllegalStateException                    
+   org.springframework.boot.loader.archive.JarFileArchive -> java.lang.Object                                   
+   org.springframework.boot.loader.archive.JarFileArchive -> java.lang.String                                   
+   org.springframework.boot.loader.archive.JarFileArchive -> java.lang.StringBuilder                            
+   org.springframework.boot.loader.archive.JarFileArchive -> java.lang.System                                   
+   org.springframework.boot.loader.archive.JarFileArchive -> java.lang.Throwable                                
+   org.springframework.boot.loader.archive.JarFileArchive -> java.net.MalformedURLException                     
+   org.springframework.boot.loader.archive.JarFileArchive -> java.net.URI                                       
+   org.springframework.boot.loader.archive.JarFileArchive -> java.net.URL                                       
+   org.springframework.boot.loader.archive.JarFileArchive -> java.nio.file.FileSystem                           
+   org.springframework.boot.loader.archive.JarFileArchive -> java.nio.file.Files                                
+   org.springframework.boot.loader.archive.JarFileArchive -> java.nio.file.LinkOption                           
+   org.springframework.boot.loader.archive.JarFileArchive -> java.nio.file.OpenOption                           
+   org.springframework.boot.loader.archive.JarFileArchive -> java.nio.file.Path                                 
+   org.springframework.boot.loader.archive.JarFileArchive -> java.nio.file.Paths                                
+   org.springframework.boot.loader.archive.JarFileArchive -> java.nio.file.StandardOpenOption                   
+   org.springframework.boot.loader.archive.JarFileArchive -> java.nio.file.attribute.FileAttribute              
+   org.springframework.boot.loader.archive.JarFileArchive -> java.nio.file.attribute.PosixFilePermission        
+   org.springframework.boot.loader.archive.JarFileArchive -> java.nio.file.attribute.PosixFilePermissions       
+   org.springframework.boot.loader.archive.JarFileArchive -> java.util.EnumSet                                  
+   org.springframework.boot.loader.archive.JarFileArchive -> java.util.Iterator                                 
+   org.springframework.boot.loader.archive.JarFileArchive -> java.util.Set                                      
+   org.springframework.boot.loader.archive.JarFileArchive -> java.util.UUID                                     
+   org.springframework.boot.loader.archive.JarFileArchive -> java.util.jar.JarEntry                             
+   org.springframework.boot.loader.archive.JarFileArchive -> java.util.jar.Manifest                             
+   org.springframework.boot.loader.archive.JarFileArchive -> java.util.zip.ZipEntry                             
+   org.springframework.boot.loader.archive.JarFileArchive -> org.springframework.boot.loader.archive.Archive    spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.JarFileArchive -> org.springframework.boot.loader.archive.Archive$Entry spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.JarFileArchive -> org.springframework.boot.loader.archive.Archive$EntryFilter spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.JarFileArchive -> org.springframework.boot.loader.archive.JarFileArchive$AbstractIterator spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.JarFileArchive -> org.springframework.boot.loader.archive.JarFileArchive$EntryIterator spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.JarFileArchive -> org.springframework.boot.loader.archive.JarFileArchive$JarFileEntry spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.JarFileArchive -> org.springframework.boot.loader.archive.JarFileArchive$NestedArchiveIterator spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.JarFileArchive -> org.springframework.boot.loader.jar.JarFile        spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.JarFileArchive$AbstractIterator -> java.lang.Object                                   
+   org.springframework.boot.loader.archive.JarFileArchive$AbstractIterator -> java.util.Iterator                                 
+   org.springframework.boot.loader.archive.JarFileArchive$AbstractIterator -> java.util.jar.JarEntry                             
+   org.springframework.boot.loader.archive.JarFileArchive$AbstractIterator -> org.springframework.boot.loader.archive.Archive    spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.JarFileArchive$AbstractIterator -> org.springframework.boot.loader.archive.Archive$Entry spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.JarFileArchive$AbstractIterator -> org.springframework.boot.loader.archive.Archive$EntryFilter spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.JarFileArchive$AbstractIterator -> org.springframework.boot.loader.archive.JarFileArchive spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.JarFileArchive$AbstractIterator -> org.springframework.boot.loader.archive.JarFileArchive$JarFileEntry spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.JarFileArchive$EntryIterator -> java.lang.Object                                   
+   org.springframework.boot.loader.archive.JarFileArchive$EntryIterator -> java.util.Iterator                                 
+   org.springframework.boot.loader.archive.JarFileArchive$EntryIterator -> java.util.jar.JarEntry                             
+   org.springframework.boot.loader.archive.JarFileArchive$EntryIterator -> org.springframework.boot.loader.archive.Archive    spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.JarFileArchive$EntryIterator -> org.springframework.boot.loader.archive.Archive$Entry spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.JarFileArchive$EntryIterator -> org.springframework.boot.loader.archive.Archive$EntryFilter spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.JarFileArchive$EntryIterator -> org.springframework.boot.loader.archive.JarFileArchive spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.JarFileArchive$EntryIterator -> org.springframework.boot.loader.archive.JarFileArchive$AbstractIterator spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.JarFileArchive$JarFileEntry -> java.lang.Object                                   
+   org.springframework.boot.loader.archive.JarFileArchive$JarFileEntry -> java.lang.String                                   
+   org.springframework.boot.loader.archive.JarFileArchive$JarFileEntry -> java.util.jar.JarEntry                             
+   org.springframework.boot.loader.archive.JarFileArchive$JarFileEntry -> org.springframework.boot.loader.archive.Archive    spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.JarFileArchive$JarFileEntry -> org.springframework.boot.loader.archive.Archive$Entry spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.JarFileArchive$JarFileEntry -> org.springframework.boot.loader.archive.JarFileArchive spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.JarFileArchive$NestedArchiveIterator -> java.io.IOException                                
+   org.springframework.boot.loader.archive.JarFileArchive$NestedArchiveIterator -> java.lang.IllegalStateException                    
+   org.springframework.boot.loader.archive.JarFileArchive$NestedArchiveIterator -> java.lang.Object                                   
+   org.springframework.boot.loader.archive.JarFileArchive$NestedArchiveIterator -> java.lang.Throwable                                
+   org.springframework.boot.loader.archive.JarFileArchive$NestedArchiveIterator -> java.util.Iterator                                 
+   org.springframework.boot.loader.archive.JarFileArchive$NestedArchiveIterator -> java.util.jar.JarEntry                             
+   org.springframework.boot.loader.archive.JarFileArchive$NestedArchiveIterator -> org.springframework.boot.loader.archive.Archive    spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.JarFileArchive$NestedArchiveIterator -> org.springframework.boot.loader.archive.Archive$Entry spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.JarFileArchive$NestedArchiveIterator -> org.springframework.boot.loader.archive.Archive$EntryFilter spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.JarFileArchive$NestedArchiveIterator -> org.springframework.boot.loader.archive.JarFileArchive spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.archive.JarFileArchive$NestedArchiveIterator -> org.springframework.boot.loader.archive.JarFileArchive$AbstractIterator spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.data.RandomAccessData -> java.io.IOException                                
+   org.springframework.boot.loader.data.RandomAccessData -> java.io.InputStream                                
+   org.springframework.boot.loader.data.RandomAccessData -> java.lang.Object                                   
+   org.springframework.boot.loader.data.RandomAccessDataFile -> java.io.EOFException                               
+   org.springframework.boot.loader.data.RandomAccessDataFile -> java.io.File                                       
+   org.springframework.boot.loader.data.RandomAccessDataFile -> java.io.IOException                                
+   org.springframework.boot.loader.data.RandomAccessDataFile -> java.io.InputStream                                
+   org.springframework.boot.loader.data.RandomAccessDataFile -> java.lang.IllegalArgumentException                 
+   org.springframework.boot.loader.data.RandomAccessDataFile -> java.lang.IndexOutOfBoundsException                
+   org.springframework.boot.loader.data.RandomAccessDataFile -> java.lang.Object                                   
+   org.springframework.boot.loader.data.RandomAccessDataFile -> java.lang.String                                   
+   org.springframework.boot.loader.data.RandomAccessDataFile -> org.springframework.boot.loader.data.RandomAccessData spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.data.RandomAccessDataFile -> org.springframework.boot.loader.data.RandomAccessDataFile$1 spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.data.RandomAccessDataFile -> org.springframework.boot.loader.data.RandomAccessDataFile$DataInputStream spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.data.RandomAccessDataFile -> org.springframework.boot.loader.data.RandomAccessDataFile$FileAccess spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.data.RandomAccessDataFile$1 -> java.lang.Object                                   
+   org.springframework.boot.loader.data.RandomAccessDataFile$1 -> org.springframework.boot.loader.data.RandomAccessDataFile spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.data.RandomAccessDataFile$DataInputStream -> java.io.IOException                                
+   org.springframework.boot.loader.data.RandomAccessDataFile$DataInputStream -> java.io.InputStream                                
+   org.springframework.boot.loader.data.RandomAccessDataFile$DataInputStream -> java.lang.Math                                     
+   org.springframework.boot.loader.data.RandomAccessDataFile$DataInputStream -> java.lang.NullPointerException                     
+   org.springframework.boot.loader.data.RandomAccessDataFile$DataInputStream -> java.lang.String                                   
+   org.springframework.boot.loader.data.RandomAccessDataFile$DataInputStream -> org.springframework.boot.loader.data.RandomAccessDataFile spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.data.RandomAccessDataFile$DataInputStream -> org.springframework.boot.loader.data.RandomAccessDataFile$1 spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.data.RandomAccessDataFile$FileAccess -> java.io.File                                       
+   org.springframework.boot.loader.data.RandomAccessDataFile$FileAccess -> java.io.FileNotFoundException                      
+   org.springframework.boot.loader.data.RandomAccessDataFile$FileAccess -> java.io.IOException                                
+   org.springframework.boot.loader.data.RandomAccessDataFile$FileAccess -> java.io.RandomAccessFile                           
+   org.springframework.boot.loader.data.RandomAccessDataFile$FileAccess -> java.lang.IllegalArgumentException                 
+   org.springframework.boot.loader.data.RandomAccessDataFile$FileAccess -> java.lang.Object                                   
+   org.springframework.boot.loader.data.RandomAccessDataFile$FileAccess -> java.lang.String                                   
+   org.springframework.boot.loader.data.RandomAccessDataFile$FileAccess -> java.lang.Throwable                                
+   org.springframework.boot.loader.data.RandomAccessDataFile$FileAccess -> org.springframework.boot.loader.data.RandomAccessDataFile spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.data.RandomAccessDataFile$FileAccess -> org.springframework.boot.loader.data.RandomAccessDataFile$1 spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.AbstractJarFile -> java.io.File                                       
+   org.springframework.boot.loader.jar.AbstractJarFile -> java.io.IOException                                
+   org.springframework.boot.loader.jar.AbstractJarFile -> java.io.InputStream                                
+   org.springframework.boot.loader.jar.AbstractJarFile -> java.net.MalformedURLException                     
+   org.springframework.boot.loader.jar.AbstractJarFile -> java.net.URL                                       
+   org.springframework.boot.loader.jar.AbstractJarFile -> java.security.Permission                           
+   org.springframework.boot.loader.jar.AbstractJarFile -> java.util.jar.JarFile                              
+   org.springframework.boot.loader.jar.AbstractJarFile -> org.springframework.boot.loader.jar.AbstractJarFile$JarFileType spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.AbstractJarFile$JarFileType -> java.lang.Class                                    
+   org.springframework.boot.loader.jar.AbstractJarFile$JarFileType -> java.lang.Enum                                     
+   org.springframework.boot.loader.jar.AbstractJarFile$JarFileType -> java.lang.Object                                   
+   org.springframework.boot.loader.jar.AbstractJarFile$JarFileType -> java.lang.String                                   
+   org.springframework.boot.loader.jar.AbstractJarFile$JarFileType -> org.springframework.boot.loader.jar.AbstractJarFile spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.AsciiBytes     -> java.lang.CharSequence                             
+   org.springframework.boot.loader.jar.AsciiBytes     -> java.lang.Class                                    
+   org.springframework.boot.loader.jar.AsciiBytes     -> java.lang.IndexOutOfBoundsException                
+   org.springframework.boot.loader.jar.AsciiBytes     -> java.lang.Object                                   
+   org.springframework.boot.loader.jar.AsciiBytes     -> java.lang.String                                   
+   org.springframework.boot.loader.jar.AsciiBytes     -> java.nio.charset.Charset                           
+   org.springframework.boot.loader.jar.AsciiBytes     -> java.nio.charset.StandardCharsets                  
+   org.springframework.boot.loader.jar.AsciiBytes     -> org.springframework.boot.loader.jar.StringSequence spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.Bytes          -> java.lang.Object                                   
+   org.springframework.boot.loader.jar.CentralDirectoryEndRecord -> java.io.IOException                                
+   org.springframework.boot.loader.jar.CentralDirectoryEndRecord -> java.lang.Math                                     
+   org.springframework.boot.loader.jar.CentralDirectoryEndRecord -> java.lang.Object                                   
+   org.springframework.boot.loader.jar.CentralDirectoryEndRecord -> java.lang.String                                   
+   org.springframework.boot.loader.jar.CentralDirectoryEndRecord -> java.lang.StringBuilder                            
+   org.springframework.boot.loader.jar.CentralDirectoryEndRecord -> org.springframework.boot.loader.data.RandomAccessData spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.CentralDirectoryEndRecord -> org.springframework.boot.loader.jar.AsciiBytes     spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.CentralDirectoryEndRecord -> org.springframework.boot.loader.jar.Bytes          spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.CentralDirectoryEndRecord -> org.springframework.boot.loader.jar.CentralDirectoryEndRecord$1 spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.CentralDirectoryEndRecord -> org.springframework.boot.loader.jar.CentralDirectoryEndRecord$Zip64End spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.CentralDirectoryEndRecord -> org.springframework.boot.loader.jar.CentralDirectoryEndRecord$Zip64Locator spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.CentralDirectoryEndRecord$1 -> java.lang.Object                                   
+   org.springframework.boot.loader.jar.CentralDirectoryEndRecord$1 -> org.springframework.boot.loader.jar.CentralDirectoryEndRecord spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.CentralDirectoryEndRecord$Zip64End -> java.io.IOException                                
+   org.springframework.boot.loader.jar.CentralDirectoryEndRecord$Zip64End -> java.lang.Object                                   
+   org.springframework.boot.loader.jar.CentralDirectoryEndRecord$Zip64End -> org.springframework.boot.loader.data.RandomAccessData spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.CentralDirectoryEndRecord$Zip64End -> org.springframework.boot.loader.jar.Bytes          spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.CentralDirectoryEndRecord$Zip64End -> org.springframework.boot.loader.jar.CentralDirectoryEndRecord spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.CentralDirectoryEndRecord$Zip64End -> org.springframework.boot.loader.jar.CentralDirectoryEndRecord$1 spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.CentralDirectoryEndRecord$Zip64End -> org.springframework.boot.loader.jar.CentralDirectoryEndRecord$Zip64Locator spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.CentralDirectoryEndRecord$Zip64Locator -> java.io.IOException                                
+   org.springframework.boot.loader.jar.CentralDirectoryEndRecord$Zip64Locator -> java.lang.Object                                   
+   org.springframework.boot.loader.jar.CentralDirectoryEndRecord$Zip64Locator -> org.springframework.boot.loader.data.RandomAccessData spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.CentralDirectoryEndRecord$Zip64Locator -> org.springframework.boot.loader.jar.Bytes          spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.CentralDirectoryEndRecord$Zip64Locator -> org.springframework.boot.loader.jar.CentralDirectoryEndRecord spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.CentralDirectoryEndRecord$Zip64Locator -> org.springframework.boot.loader.jar.CentralDirectoryEndRecord$1 spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.CentralDirectoryFileHeader -> java.io.IOException                                
+   org.springframework.boot.loader.jar.CentralDirectoryFileHeader -> java.lang.CharSequence                             
+   org.springframework.boot.loader.jar.CentralDirectoryFileHeader -> java.lang.CloneNotSupportedException               
+   org.springframework.boot.loader.jar.CentralDirectoryFileHeader -> java.lang.Math                                     
+   org.springframework.boot.loader.jar.CentralDirectoryFileHeader -> java.lang.Object                                   
+   org.springframework.boot.loader.jar.CentralDirectoryFileHeader -> java.lang.String                                   
+   org.springframework.boot.loader.jar.CentralDirectoryFileHeader -> java.lang.System                                   
+   org.springframework.boot.loader.jar.CentralDirectoryFileHeader -> java.time.Instant                                  
+   org.springframework.boot.loader.jar.CentralDirectoryFileHeader -> java.time.ZoneId                                   
+   org.springframework.boot.loader.jar.CentralDirectoryFileHeader -> java.time.ZonedDateTime                            
+   org.springframework.boot.loader.jar.CentralDirectoryFileHeader -> java.time.temporal.ChronoField                     
+   org.springframework.boot.loader.jar.CentralDirectoryFileHeader -> java.time.temporal.ChronoUnit                      
+   org.springframework.boot.loader.jar.CentralDirectoryFileHeader -> java.time.temporal.TemporalUnit                    
+   org.springframework.boot.loader.jar.CentralDirectoryFileHeader -> java.time.temporal.ValueRange                      
+   org.springframework.boot.loader.jar.CentralDirectoryFileHeader -> org.springframework.boot.loader.data.RandomAccessData spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.CentralDirectoryFileHeader -> org.springframework.boot.loader.jar.AsciiBytes     spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.CentralDirectoryFileHeader -> org.springframework.boot.loader.jar.Bytes          spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.CentralDirectoryFileHeader -> org.springframework.boot.loader.jar.FileHeader     spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.CentralDirectoryFileHeader -> org.springframework.boot.loader.jar.JarEntryFilter spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.CentralDirectoryParser -> java.io.IOException                                
+   org.springframework.boot.loader.jar.CentralDirectoryParser -> java.lang.Object                                   
+   org.springframework.boot.loader.jar.CentralDirectoryParser -> java.util.ArrayList                                
+   org.springframework.boot.loader.jar.CentralDirectoryParser -> java.util.Iterator                                 
+   org.springframework.boot.loader.jar.CentralDirectoryParser -> java.util.List                                     
+   org.springframework.boot.loader.jar.CentralDirectoryParser -> org.springframework.boot.loader.data.RandomAccessData spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.CentralDirectoryParser -> org.springframework.boot.loader.jar.AsciiBytes     spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.CentralDirectoryParser -> org.springframework.boot.loader.jar.CentralDirectoryEndRecord spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.CentralDirectoryParser -> org.springframework.boot.loader.jar.CentralDirectoryFileHeader spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.CentralDirectoryParser -> org.springframework.boot.loader.jar.CentralDirectoryVisitor spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.CentralDirectoryParser -> org.springframework.boot.loader.jar.JarEntryFilter spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.CentralDirectoryVisitor -> java.lang.Object                                   
+   org.springframework.boot.loader.jar.CentralDirectoryVisitor -> org.springframework.boot.loader.data.RandomAccessData spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.CentralDirectoryVisitor -> org.springframework.boot.loader.jar.CentralDirectoryEndRecord spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.CentralDirectoryVisitor -> org.springframework.boot.loader.jar.CentralDirectoryFileHeader spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.FileHeader     -> java.lang.CharSequence                             
+   org.springframework.boot.loader.jar.FileHeader     -> java.lang.Object                                   
+   org.springframework.boot.loader.jar.Handler        -> java.io.File                                       
+   org.springframework.boot.loader.jar.Handler        -> java.io.IOException                                
+   org.springframework.boot.loader.jar.Handler        -> java.io.PrintStream                                
+   org.springframework.boot.loader.jar.Handler        -> java.lang.CharSequence                             
+   org.springframework.boot.loader.jar.Handler        -> java.lang.Class                                    
+   org.springframework.boot.loader.jar.Handler        -> java.lang.Error                                    
+   org.springframework.boot.loader.jar.Handler        -> java.lang.Exception                                
+   org.springframework.boot.loader.jar.Handler        -> java.lang.IllegalArgumentException                 
+   org.springframework.boot.loader.jar.Handler        -> java.lang.IllegalStateException                    
+   org.springframework.boot.loader.jar.Handler        -> java.lang.Object                                   
+   org.springframework.boot.loader.jar.Handler        -> java.lang.RuntimeException                         
+   org.springframework.boot.loader.jar.Handler        -> java.lang.String                                   
+   org.springframework.boot.loader.jar.Handler        -> java.lang.StringBuilder                            
+   org.springframework.boot.loader.jar.Handler        -> java.lang.System                                   
+   org.springframework.boot.loader.jar.Handler        -> java.lang.Throwable                                
+   org.springframework.boot.loader.jar.Handler        -> java.lang.ref.SoftReference                        
+   org.springframework.boot.loader.jar.Handler        -> java.lang.reflect.Constructor                      
+   org.springframework.boot.loader.jar.Handler        -> java.net.MalformedURLException                     
+   org.springframework.boot.loader.jar.Handler        -> java.net.URI                                       
+   org.springframework.boot.loader.jar.Handler        -> java.net.URL                                       
+   org.springframework.boot.loader.jar.Handler        -> java.net.URLConnection                             
+   org.springframework.boot.loader.jar.Handler        -> java.net.URLStreamHandler                          
+   org.springframework.boot.loader.jar.Handler        -> java.net.URLStreamHandlerFactory                   
+   org.springframework.boot.loader.jar.Handler        -> java.util.Map                                      
+   org.springframework.boot.loader.jar.Handler        -> java.util.concurrent.ConcurrentHashMap             
+   org.springframework.boot.loader.jar.Handler        -> java.util.logging.Level                            
+   org.springframework.boot.loader.jar.Handler        -> java.util.logging.Logger                           
+   org.springframework.boot.loader.jar.Handler        -> java.util.regex.Matcher                            
+   org.springframework.boot.loader.jar.Handler        -> java.util.regex.Pattern                            
+   org.springframework.boot.loader.jar.Handler        -> org.springframework.boot.loader.jar.JarFile        spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.Handler        -> org.springframework.boot.loader.jar.JarURLConnection spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarEntry       -> java.io.IOException                                
+   org.springframework.boot.loader.jar.JarEntry       -> java.lang.CharSequence                             
+   org.springframework.boot.loader.jar.JarEntry       -> java.lang.String                                   
+   org.springframework.boot.loader.jar.JarEntry       -> java.net.MalformedURLException                     
+   org.springframework.boot.loader.jar.JarEntry       -> java.net.URL                                       
+   org.springframework.boot.loader.jar.JarEntry       -> java.security.CodeSigner                           
+   org.springframework.boot.loader.jar.JarEntry       -> java.security.cert.Certificate                     
+   org.springframework.boot.loader.jar.JarEntry       -> java.util.jar.Attributes                           
+   org.springframework.boot.loader.jar.JarEntry       -> java.util.jar.JarEntry                             
+   org.springframework.boot.loader.jar.JarEntry       -> java.util.jar.Manifest                             
+   org.springframework.boot.loader.jar.JarEntry       -> org.springframework.boot.loader.jar.AsciiBytes     spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarEntry       -> org.springframework.boot.loader.jar.CentralDirectoryFileHeader spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarEntry       -> org.springframework.boot.loader.jar.FileHeader     spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarEntry       -> org.springframework.boot.loader.jar.JarEntryCertification spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarEntry       -> org.springframework.boot.loader.jar.JarFile        spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarEntryCertification -> java.lang.Object                                   
+   org.springframework.boot.loader.jar.JarEntryCertification -> java.security.CodeSigner                           
+   org.springframework.boot.loader.jar.JarEntryCertification -> java.security.cert.Certificate                     
+   org.springframework.boot.loader.jar.JarEntryCertification -> java.util.jar.JarEntry                             
+   org.springframework.boot.loader.jar.JarEntryFilter -> java.lang.Object                                   
+   org.springframework.boot.loader.jar.JarEntryFilter -> org.springframework.boot.loader.jar.AsciiBytes     spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFile        -> java.io.File                                       
+   org.springframework.boot.loader.jar.JarFile        -> java.io.FilePermission                             
+   org.springframework.boot.loader.jar.JarFile        -> java.io.IOException                                
+   org.springframework.boot.loader.jar.JarFile        -> java.io.InputStream                                
+   org.springframework.boot.loader.jar.JarFile        -> java.lang.CharSequence                             
+   org.springframework.boot.loader.jar.JarFile        -> java.lang.Error                                    
+   org.springframework.boot.loader.jar.JarFile        -> java.lang.Exception                                
+   org.springframework.boot.loader.jar.JarFile        -> java.lang.IllegalStateException                    
+   org.springframework.boot.loader.jar.JarFile        -> java.lang.Iterable                                 
+   org.springframework.boot.loader.jar.JarFile        -> java.lang.Object                                   
+   org.springframework.boot.loader.jar.JarFile        -> java.lang.Runnable                                 
+   org.springframework.boot.loader.jar.JarFile        -> java.lang.RuntimeException                         
+   org.springframework.boot.loader.jar.JarFile        -> java.lang.String                                   
+   org.springframework.boot.loader.jar.JarFile        -> java.lang.StringBuilder                            
+   org.springframework.boot.loader.jar.JarFile        -> java.lang.System                                   
+   org.springframework.boot.loader.jar.JarFile        -> java.lang.Throwable                                
+   org.springframework.boot.loader.jar.JarFile        -> java.lang.invoke.CallSite                          
+   org.springframework.boot.loader.jar.JarFile        -> java.lang.invoke.LambdaMetafactory                 
+   org.springframework.boot.loader.jar.JarFile        -> java.lang.invoke.MethodHandle                      
+   org.springframework.boot.loader.jar.JarFile        -> java.lang.invoke.MethodHandles                     
+   org.springframework.boot.loader.jar.JarFile        -> java.lang.invoke.MethodHandles$Lookup              
+   org.springframework.boot.loader.jar.JarFile        -> java.lang.invoke.MethodType                        
+   org.springframework.boot.loader.jar.JarFile        -> java.lang.ref.SoftReference                        
+   org.springframework.boot.loader.jar.JarFile        -> java.net.MalformedURLException                     
+   org.springframework.boot.loader.jar.JarFile        -> java.net.URI                                       
+   org.springframework.boot.loader.jar.JarFile        -> java.net.URL                                       
+   org.springframework.boot.loader.jar.JarFile        -> java.net.URLStreamHandler                          
+   org.springframework.boot.loader.jar.JarFile        -> java.net.URLStreamHandlerFactory                   
+   org.springframework.boot.loader.jar.JarFile        -> java.security.Permission                           
+   org.springframework.boot.loader.jar.JarFile        -> java.util.Enumeration                              
+   org.springframework.boot.loader.jar.JarFile        -> java.util.Iterator                                 
+   org.springframework.boot.loader.jar.JarFile        -> java.util.Spliterator                              
+   org.springframework.boot.loader.jar.JarFile        -> java.util.Spliterators                             
+   org.springframework.boot.loader.jar.JarFile        -> java.util.function.Supplier                        
+   org.springframework.boot.loader.jar.JarFile        -> java.util.jar.JarEntry                             
+   org.springframework.boot.loader.jar.JarFile        -> java.util.jar.Manifest                             
+   org.springframework.boot.loader.jar.JarFile        -> java.util.stream.Stream                            
+   org.springframework.boot.loader.jar.JarFile        -> java.util.stream.StreamSupport                     
+   org.springframework.boot.loader.jar.JarFile        -> java.util.zip.ZipEntry                             
+   org.springframework.boot.loader.jar.JarFile        -> org.springframework.boot.loader.data.RandomAccessData spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFile        -> org.springframework.boot.loader.data.RandomAccessDataFile spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFile        -> org.springframework.boot.loader.jar.AbstractJarFile spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFile        -> org.springframework.boot.loader.jar.AbstractJarFile$JarFileType spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFile        -> org.springframework.boot.loader.jar.AsciiBytes     spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFile        -> org.springframework.boot.loader.jar.CentralDirectoryParser spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFile        -> org.springframework.boot.loader.jar.CentralDirectoryVisitor spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFile        -> org.springframework.boot.loader.jar.FileHeader     spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFile        -> org.springframework.boot.loader.jar.Handler        spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFile        -> org.springframework.boot.loader.jar.JarEntry       spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFile        -> org.springframework.boot.loader.jar.JarEntryCertification spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFile        -> org.springframework.boot.loader.jar.JarEntryFilter spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFile        -> org.springframework.boot.loader.jar.JarFile$1      spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFile        -> org.springframework.boot.loader.jar.JarFile$JarEntryEnumeration spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFile        -> org.springframework.boot.loader.jar.JarFileEntries spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFile$1      -> java.lang.Object                                   
+   org.springframework.boot.loader.jar.JarFile$1      -> java.lang.String                                   
+   org.springframework.boot.loader.jar.JarFile$1      -> org.springframework.boot.loader.data.RandomAccessData spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFile$1      -> org.springframework.boot.loader.jar.AsciiBytes     spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFile$1      -> org.springframework.boot.loader.jar.CentralDirectoryEndRecord spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFile$1      -> org.springframework.boot.loader.jar.CentralDirectoryFileHeader spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFile$1      -> org.springframework.boot.loader.jar.CentralDirectoryVisitor spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFile$1      -> org.springframework.boot.loader.jar.JarFile        spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFile$JarEntryEnumeration -> java.lang.Object                                   
+   org.springframework.boot.loader.jar.JarFile$JarEntryEnumeration -> java.util.Enumeration                              
+   org.springframework.boot.loader.jar.JarFile$JarEntryEnumeration -> java.util.Iterator                                 
+   org.springframework.boot.loader.jar.JarFile$JarEntryEnumeration -> java.util.jar.JarEntry                             
+   org.springframework.boot.loader.jar.JarFile$JarEntryEnumeration -> org.springframework.boot.loader.jar.JarEntry       spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFile$JarEntryEnumeration -> org.springframework.boot.loader.jar.JarFile        spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFileEntries -> java.io.IOException                                
+   org.springframework.boot.loader.jar.JarFileEntries -> java.io.InputStream                                
+   org.springframework.boot.loader.jar.JarFileEntries -> java.lang.Boolean                                  
+   org.springframework.boot.loader.jar.JarFileEntries -> java.lang.CharSequence                             
+   org.springframework.boot.loader.jar.JarFileEntries -> java.lang.Class                                    
+   org.springframework.boot.loader.jar.JarFileEntries -> java.lang.IllegalStateException                    
+   org.springframework.boot.loader.jar.JarFileEntries -> java.lang.Integer                                  
+   org.springframework.boot.loader.jar.JarFileEntries -> java.lang.Iterable                                 
+   org.springframework.boot.loader.jar.JarFileEntries -> java.lang.Object                                   
+   org.springframework.boot.loader.jar.JarFileEntries -> java.lang.Runnable                                 
+   org.springframework.boot.loader.jar.JarFileEntries -> java.lang.Runtime                                  
+   org.springframework.boot.loader.jar.JarFileEntries -> java.lang.String                                   
+   org.springframework.boot.loader.jar.JarFileEntries -> java.lang.StringBuilder                            
+   org.springframework.boot.loader.jar.JarFileEntries -> java.lang.Throwable                                
+   org.springframework.boot.loader.jar.JarFileEntries -> java.lang.invoke.CallSite                          
+   org.springframework.boot.loader.jar.JarFileEntries -> java.lang.invoke.LambdaMetafactory                 
+   org.springframework.boot.loader.jar.JarFileEntries -> java.lang.invoke.MethodHandle                      
+   org.springframework.boot.loader.jar.JarFileEntries -> java.lang.invoke.MethodHandles                     
+   org.springframework.boot.loader.jar.JarFileEntries -> java.lang.invoke.MethodHandles$Lookup              
+   org.springframework.boot.loader.jar.JarFileEntries -> java.lang.invoke.MethodType                        
+   org.springframework.boot.loader.jar.JarFileEntries -> java.lang.reflect.Method                           
+   org.springframework.boot.loader.jar.JarFileEntries -> java.util.Arrays                                   
+   org.springframework.boot.loader.jar.JarFileEntries -> java.util.Collections                              
+   org.springframework.boot.loader.jar.JarFileEntries -> java.util.Iterator                                 
+   org.springframework.boot.loader.jar.JarFileEntries -> java.util.Map                                      
+   org.springframework.boot.loader.jar.JarFileEntries -> java.util.jar.Attributes                           
+   org.springframework.boot.loader.jar.JarFileEntries -> java.util.jar.Attributes$Name                      
+   org.springframework.boot.loader.jar.JarFileEntries -> java.util.jar.JarEntry                             
+   org.springframework.boot.loader.jar.JarFileEntries -> java.util.jar.JarInputStream                       
+   org.springframework.boot.loader.jar.JarFileEntries -> java.util.jar.Manifest                             
+   org.springframework.boot.loader.jar.JarFileEntries -> java.util.zip.ZipEntry                             
+   org.springframework.boot.loader.jar.JarFileEntries -> org.springframework.boot.loader.data.RandomAccessData spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFileEntries -> org.springframework.boot.loader.jar.AsciiBytes     spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFileEntries -> org.springframework.boot.loader.jar.Bytes          spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFileEntries -> org.springframework.boot.loader.jar.CentralDirectoryEndRecord spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFileEntries -> org.springframework.boot.loader.jar.CentralDirectoryFileHeader spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFileEntries -> org.springframework.boot.loader.jar.CentralDirectoryVisitor spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFileEntries -> org.springframework.boot.loader.jar.FileHeader     spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFileEntries -> org.springframework.boot.loader.jar.JarEntry       spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFileEntries -> org.springframework.boot.loader.jar.JarEntryCertification spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFileEntries -> org.springframework.boot.loader.jar.JarEntryFilter spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFileEntries -> org.springframework.boot.loader.jar.JarFile        spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFileEntries -> org.springframework.boot.loader.jar.JarFileEntries$1 spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFileEntries -> org.springframework.boot.loader.jar.JarFileEntries$EntryIterator spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFileEntries -> org.springframework.boot.loader.jar.ZipInflaterInputStream spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFileEntries$1 -> java.lang.Integer                                  
+   org.springframework.boot.loader.jar.JarFileEntries$1 -> java.util.LinkedHashMap                            
+   org.springframework.boot.loader.jar.JarFileEntries$1 -> java.util.Map                                      
+   org.springframework.boot.loader.jar.JarFileEntries$1 -> java.util.Map$Entry                                
+   org.springframework.boot.loader.jar.JarFileEntries$1 -> org.springframework.boot.loader.jar.FileHeader     spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFileEntries$1 -> org.springframework.boot.loader.jar.JarFileEntries spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFileEntries$EntryIterator -> java.lang.Class                                    
+   org.springframework.boot.loader.jar.JarFileEntries$EntryIterator -> java.lang.Object                                   
+   org.springframework.boot.loader.jar.JarFileEntries$EntryIterator -> java.lang.Runnable                                 
+   org.springframework.boot.loader.jar.JarFileEntries$EntryIterator -> java.util.Iterator                                 
+   org.springframework.boot.loader.jar.JarFileEntries$EntryIterator -> java.util.NoSuchElementException                   
+   org.springframework.boot.loader.jar.JarFileEntries$EntryIterator -> org.springframework.boot.loader.jar.AsciiBytes     spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFileEntries$EntryIterator -> org.springframework.boot.loader.jar.FileHeader     spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFileEntries$EntryIterator -> org.springframework.boot.loader.jar.JarEntry       spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFileEntries$EntryIterator -> org.springframework.boot.loader.jar.JarFileEntries spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFileEntries$EntryIterator -> org.springframework.boot.loader.jar.JarFileEntries$1 spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFileWrapper -> java.io.File                                       
+   org.springframework.boot.loader.jar.JarFileWrapper -> java.io.IOException                                
+   org.springframework.boot.loader.jar.JarFileWrapper -> java.io.InputStream                                
+   org.springframework.boot.loader.jar.JarFileWrapper -> java.lang.IllegalStateException                    
+   org.springframework.boot.loader.jar.JarFileWrapper -> java.lang.String                                   
+   org.springframework.boot.loader.jar.JarFileWrapper -> java.net.MalformedURLException                     
+   org.springframework.boot.loader.jar.JarFileWrapper -> java.net.URL                                       
+   org.springframework.boot.loader.jar.JarFileWrapper -> java.security.Permission                           
+   org.springframework.boot.loader.jar.JarFileWrapper -> java.util.Enumeration                              
+   org.springframework.boot.loader.jar.JarFileWrapper -> java.util.jar.JarEntry                             
+   org.springframework.boot.loader.jar.JarFileWrapper -> java.util.jar.JarFile                              
+   org.springframework.boot.loader.jar.JarFileWrapper -> java.util.jar.Manifest                             
+   org.springframework.boot.loader.jar.JarFileWrapper -> java.util.stream.Stream                            
+   org.springframework.boot.loader.jar.JarFileWrapper -> java.util.zip.ZipEntry                             
+   org.springframework.boot.loader.jar.JarFileWrapper -> org.springframework.boot.loader.data.RandomAccessDataFile spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFileWrapper -> org.springframework.boot.loader.jar.AbstractJarFile spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFileWrapper -> org.springframework.boot.loader.jar.AbstractJarFile$JarFileType spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFileWrapper -> org.springframework.boot.loader.jar.JarEntry       spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarFileWrapper -> org.springframework.boot.loader.jar.JarFile        spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarURLConnection -> java.io.FileNotFoundException                      
+   org.springframework.boot.loader.jar.JarURLConnection -> java.io.IOException                                
+   org.springframework.boot.loader.jar.JarURLConnection -> java.io.InputStream                                
+   org.springframework.boot.loader.jar.JarURLConnection -> java.lang.Boolean                                  
+   org.springframework.boot.loader.jar.JarURLConnection -> java.lang.CharSequence                             
+   org.springframework.boot.loader.jar.JarURLConnection -> java.lang.IllegalStateException                    
+   org.springframework.boot.loader.jar.JarURLConnection -> java.lang.Integer                                  
+   org.springframework.boot.loader.jar.JarURLConnection -> java.lang.Object                                   
+   org.springframework.boot.loader.jar.JarURLConnection -> java.lang.String                                   
+   org.springframework.boot.loader.jar.JarURLConnection -> java.lang.StringBuilder                            
+   org.springframework.boot.loader.jar.JarURLConnection -> java.lang.ThreadLocal                              
+   org.springframework.boot.loader.jar.JarURLConnection -> java.lang.Throwable                                
+   org.springframework.boot.loader.jar.JarURLConnection -> java.net.JarURLConnection                          
+   org.springframework.boot.loader.jar.JarURLConnection -> java.net.MalformedURLException                     
+   org.springframework.boot.loader.jar.JarURLConnection -> java.net.URL                                       
+   org.springframework.boot.loader.jar.JarURLConnection -> java.net.URLStreamHandler                          
+   org.springframework.boot.loader.jar.JarURLConnection -> java.security.Permission                           
+   org.springframework.boot.loader.jar.JarURLConnection -> java.util.jar.JarEntry                             
+   org.springframework.boot.loader.jar.JarURLConnection -> java.util.jar.JarFile                              
+   org.springframework.boot.loader.jar.JarURLConnection -> java.util.zip.ZipEntry                             
+   org.springframework.boot.loader.jar.JarURLConnection -> org.springframework.boot.loader.jar.AbstractJarFile spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarURLConnection -> org.springframework.boot.loader.jar.AbstractJarFile$JarFileType spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarURLConnection -> org.springframework.boot.loader.jar.JarEntry       spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarURLConnection -> org.springframework.boot.loader.jar.JarFile        spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarURLConnection -> org.springframework.boot.loader.jar.JarFileWrapper spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarURLConnection -> org.springframework.boot.loader.jar.JarURLConnection$1 spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarURLConnection -> org.springframework.boot.loader.jar.JarURLConnection$JarEntryName spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarURLConnection -> org.springframework.boot.loader.jar.StringSequence spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarURLConnection$1 -> java.io.IOException                                
+   org.springframework.boot.loader.jar.JarURLConnection$1 -> java.net.URL                                       
+   org.springframework.boot.loader.jar.JarURLConnection$1 -> java.net.URLConnection                             
+   org.springframework.boot.loader.jar.JarURLConnection$1 -> java.net.URLStreamHandler                          
+   org.springframework.boot.loader.jar.JarURLConnection$1 -> org.springframework.boot.loader.jar.JarURLConnection spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarURLConnection$JarEntryName -> java.io.ByteArrayOutputStream                      
+   org.springframework.boot.loader.jar.JarURLConnection$JarEntryName -> java.io.UnsupportedEncodingException               
+   org.springframework.boot.loader.jar.JarURLConnection$JarEntryName -> java.lang.CharSequence                             
+   org.springframework.boot.loader.jar.JarURLConnection$JarEntryName -> java.lang.Character                                
+   org.springframework.boot.loader.jar.JarURLConnection$JarEntryName -> java.lang.IllegalArgumentException                 
+   org.springframework.boot.loader.jar.JarURLConnection$JarEntryName -> java.lang.IllegalStateException                    
+   org.springframework.boot.loader.jar.JarURLConnection$JarEntryName -> java.lang.Object                                   
+   org.springframework.boot.loader.jar.JarURLConnection$JarEntryName -> java.lang.String                                   
+   org.springframework.boot.loader.jar.JarURLConnection$JarEntryName -> java.lang.StringBuilder                            
+   org.springframework.boot.loader.jar.JarURLConnection$JarEntryName -> java.lang.Throwable                                
+   org.springframework.boot.loader.jar.JarURLConnection$JarEntryName -> java.net.URLConnection                             
+   org.springframework.boot.loader.jar.JarURLConnection$JarEntryName -> java.net.URLEncoder                                
+   org.springframework.boot.loader.jar.JarURLConnection$JarEntryName -> org.springframework.boot.loader.jar.AsciiBytes     spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarURLConnection$JarEntryName -> org.springframework.boot.loader.jar.JarURLConnection spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.JarURLConnection$JarEntryName -> org.springframework.boot.loader.jar.StringSequence spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jar.StringSequence -> java.lang.CharSequence                             
+   org.springframework.boot.loader.jar.StringSequence -> java.lang.Object                                   
+   org.springframework.boot.loader.jar.StringSequence -> java.lang.String                                   
+   org.springframework.boot.loader.jar.StringSequence -> java.lang.StringIndexOutOfBoundsException          
+   org.springframework.boot.loader.jar.StringSequence -> java.util.Objects                                  
+   org.springframework.boot.loader.jar.ZipInflaterInputStream -> java.io.EOFException                               
+   org.springframework.boot.loader.jar.ZipInflaterInputStream -> java.io.IOException                                
+   org.springframework.boot.loader.jar.ZipInflaterInputStream -> java.io.InputStream                                
+   org.springframework.boot.loader.jar.ZipInflaterInputStream -> java.util.zip.Inflater                             
+   org.springframework.boot.loader.jar.ZipInflaterInputStream -> java.util.zip.InflaterInputStream                  
+   org.springframework.boot.loader.jarmode.JarMode    -> java.lang.Object                                   
+   org.springframework.boot.loader.jarmode.JarMode    -> java.lang.String                                   
+   org.springframework.boot.loader.jarmode.JarModeLauncher -> java.io.PrintStream                                
+   org.springframework.boot.loader.jarmode.JarModeLauncher -> java.lang.Boolean                                  
+   org.springframework.boot.loader.jarmode.JarModeLauncher -> java.lang.Class                                    
+   org.springframework.boot.loader.jarmode.JarModeLauncher -> java.lang.ClassLoader                              
+   org.springframework.boot.loader.jarmode.JarModeLauncher -> java.lang.Object                                   
+   org.springframework.boot.loader.jarmode.JarModeLauncher -> java.lang.String                                   
+   org.springframework.boot.loader.jarmode.JarModeLauncher -> java.lang.StringBuilder                            
+   org.springframework.boot.loader.jarmode.JarModeLauncher -> java.lang.System                                   
+   org.springframework.boot.loader.jarmode.JarModeLauncher -> java.util.Iterator                                 
+   org.springframework.boot.loader.jarmode.JarModeLauncher -> java.util.List                                     
+   org.springframework.boot.loader.jarmode.JarModeLauncher -> org.springframework.boot.loader.jarmode.JarMode    spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.jarmode.JarModeLauncher -> org.springframework.core.io.support.SpringFactoriesLoader not found
+   org.springframework.boot.loader.jarmode.JarModeLauncher -> org.springframework.util.ClassUtils                not found
+   org.springframework.boot.loader.jarmode.TestJarMode -> java.io.PrintStream                                
+   org.springframework.boot.loader.jarmode.TestJarMode -> java.lang.Object                                   
+   org.springframework.boot.loader.jarmode.TestJarMode -> java.lang.String                                   
+   org.springframework.boot.loader.jarmode.TestJarMode -> java.lang.StringBuilder                            
+   org.springframework.boot.loader.jarmode.TestJarMode -> java.lang.System                                   
+   org.springframework.boot.loader.jarmode.TestJarMode -> java.util.Arrays                                   
+   org.springframework.boot.loader.jarmode.TestJarMode -> java.util.List                                     
+   org.springframework.boot.loader.jarmode.TestJarMode -> org.springframework.boot.loader.jarmode.JarMode    spring-petclinic-2.4.5.jar
+   org.springframework.boot.loader.util.SystemPropertyUtils -> java.io.PrintStream                                
+   org.springframework.boot.loader.util.SystemPropertyUtils -> java.lang.CharSequence                             
+   org.springframework.boot.loader.util.SystemPropertyUtils -> java.lang.IllegalArgumentException                 
+   org.springframework.boot.loader.util.SystemPropertyUtils -> java.lang.Object                                   
+   org.springframework.boot.loader.util.SystemPropertyUtils -> java.lang.String                                   
+   org.springframework.boot.loader.util.SystemPropertyUtils -> java.lang.StringBuilder                            
+   org.springframework.boot.loader.util.SystemPropertyUtils -> java.lang.System                                   
+   org.springframework.boot.loader.util.SystemPropertyUtils -> java.lang.Throwable                                
+   org.springframework.boot.loader.util.SystemPropertyUtils -> java.util.HashSet                                  
+   org.springframework.boot.loader.util.SystemPropertyUtils -> java.util.Locale                                   
+   org.springframework.boot.loader.util.SystemPropertyUtils -> java.util.Properties                               
+   org.springframework.boot.loader.util.SystemPropertyUtils -> java.util.Set                                      
+   org.springframework.samples.petclinic.PetClinicApplication -> java.lang.Class                                    
+   org.springframework.samples.petclinic.PetClinicApplication -> java.lang.Object                                   
+   org.springframework.samples.petclinic.PetClinicApplication -> java.lang.String                                   
+   org.springframework.samples.petclinic.PetClinicApplication -> org.springframework.boot.SpringApplication         not found
+   org.springframework.samples.petclinic.PetClinicApplication -> org.springframework.boot.autoconfigure.SpringBootApplication not found
+   org.springframework.samples.petclinic.PetClinicApplication -> org.springframework.context.ConfigurableApplicationContext not found
+   org.springframework.samples.petclinic.model.BaseEntity -> java.io.Serializable                               
+   org.springframework.samples.petclinic.model.BaseEntity -> java.lang.Integer                                  
+   org.springframework.samples.petclinic.model.BaseEntity -> java.lang.Object                                   
+   org.springframework.samples.petclinic.model.BaseEntity -> javax.persistence.GeneratedValue                   not found
+   org.springframework.samples.petclinic.model.BaseEntity -> javax.persistence.Id                               not found
+   org.springframework.samples.petclinic.model.BaseEntity -> javax.persistence.MappedSuperclass                 not found
+   org.springframework.samples.petclinic.model.NamedEntity -> java.lang.String                                   
+   org.springframework.samples.petclinic.model.NamedEntity -> javax.persistence.Column                           not found
+   org.springframework.samples.petclinic.model.NamedEntity -> javax.persistence.MappedSuperclass                 not found
+   org.springframework.samples.petclinic.model.NamedEntity -> org.springframework.samples.petclinic.model.BaseEntity spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.model.Person -> java.lang.String                                   
+   org.springframework.samples.petclinic.model.Person -> javax.persistence.Column                           not found
+   org.springframework.samples.petclinic.model.Person -> javax.persistence.MappedSuperclass                 not found
+   org.springframework.samples.petclinic.model.Person -> javax.validation.constraints.NotEmpty              not found
+   org.springframework.samples.petclinic.model.Person -> org.springframework.samples.petclinic.model.BaseEntity spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.owner.Owner  -> java.lang.Integer                                  
+   org.springframework.samples.petclinic.owner.Owner  -> java.lang.Object                                   
+   org.springframework.samples.petclinic.owner.Owner  -> java.lang.String                                   
+   org.springframework.samples.petclinic.owner.Owner  -> java.util.ArrayList                                
+   org.springframework.samples.petclinic.owner.Owner  -> java.util.Collection                               
+   org.springframework.samples.petclinic.owner.Owner  -> java.util.Collections                              
+   org.springframework.samples.petclinic.owner.Owner  -> java.util.HashSet                                  
+   org.springframework.samples.petclinic.owner.Owner  -> java.util.Iterator                                 
+   org.springframework.samples.petclinic.owner.Owner  -> java.util.List                                     
+   org.springframework.samples.petclinic.owner.Owner  -> java.util.Set                                      
+   org.springframework.samples.petclinic.owner.Owner  -> javax.persistence.Column                           not found
+   org.springframework.samples.petclinic.owner.Owner  -> javax.persistence.Entity                           not found
+   org.springframework.samples.petclinic.owner.Owner  -> javax.persistence.OneToMany                        not found
+   org.springframework.samples.petclinic.owner.Owner  -> javax.persistence.Table                            not found
+   org.springframework.samples.petclinic.owner.Owner  -> javax.validation.constraints.Digits                not found
+   org.springframework.samples.petclinic.owner.Owner  -> javax.validation.constraints.NotEmpty              not found
+   org.springframework.samples.petclinic.owner.Owner  -> org.springframework.beans.support.MutableSortDefinition not found
+   org.springframework.samples.petclinic.owner.Owner  -> org.springframework.beans.support.PropertyComparator not found
+   org.springframework.samples.petclinic.owner.Owner  -> org.springframework.beans.support.SortDefinition   not found
+   org.springframework.samples.petclinic.owner.Owner  -> org.springframework.core.style.ToStringCreator     not found
+   org.springframework.samples.petclinic.owner.Owner  -> org.springframework.samples.petclinic.model.Person spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.owner.Owner  -> org.springframework.samples.petclinic.owner.Pet    spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.owner.OwnerController -> java.lang.Integer                                  
+   org.springframework.samples.petclinic.owner.OwnerController -> java.lang.Object                                   
+   org.springframework.samples.petclinic.owner.OwnerController -> java.lang.String                                   
+   org.springframework.samples.petclinic.owner.OwnerController -> java.lang.StringBuilder                            
+   org.springframework.samples.petclinic.owner.OwnerController -> java.util.Collection                               
+   org.springframework.samples.petclinic.owner.OwnerController -> java.util.Iterator                                 
+   org.springframework.samples.petclinic.owner.OwnerController -> java.util.List                                     
+   org.springframework.samples.petclinic.owner.OwnerController -> java.util.Map                                      
+   org.springframework.samples.petclinic.owner.OwnerController -> javax.validation.Valid                             not found
+   org.springframework.samples.petclinic.owner.OwnerController -> org.springframework.samples.petclinic.owner.Owner  spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.owner.OwnerController -> org.springframework.samples.petclinic.owner.OwnerRepository spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.owner.OwnerController -> org.springframework.samples.petclinic.owner.Pet    spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.owner.OwnerController -> org.springframework.samples.petclinic.visit.VisitRepository spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.owner.OwnerController -> org.springframework.stereotype.Controller          not found
+   org.springframework.samples.petclinic.owner.OwnerController -> org.springframework.ui.Model                       not found
+   org.springframework.samples.petclinic.owner.OwnerController -> org.springframework.validation.BindingResult       not found
+   org.springframework.samples.petclinic.owner.OwnerController -> org.springframework.web.bind.WebDataBinder         not found
+   org.springframework.samples.petclinic.owner.OwnerController -> org.springframework.web.bind.annotation.GetMapping not found
+   org.springframework.samples.petclinic.owner.OwnerController -> org.springframework.web.bind.annotation.InitBinder not found
+   org.springframework.samples.petclinic.owner.OwnerController -> org.springframework.web.bind.annotation.PathVariable not found
+   org.springframework.samples.petclinic.owner.OwnerController -> org.springframework.web.bind.annotation.PostMapping not found
+   org.springframework.samples.petclinic.owner.OwnerController -> org.springframework.web.servlet.ModelAndView       not found
+   org.springframework.samples.petclinic.owner.OwnerRepository -> java.lang.Integer                                  
+   org.springframework.samples.petclinic.owner.OwnerRepository -> java.lang.Object                                   
+   org.springframework.samples.petclinic.owner.OwnerRepository -> java.lang.String                                   
+   org.springframework.samples.petclinic.owner.OwnerRepository -> java.util.Collection                               
+   org.springframework.samples.petclinic.owner.OwnerRepository -> org.springframework.data.jpa.repository.Query      not found
+   org.springframework.samples.petclinic.owner.OwnerRepository -> org.springframework.data.repository.Repository     not found
+   org.springframework.samples.petclinic.owner.OwnerRepository -> org.springframework.data.repository.query.Param    not found
+   org.springframework.samples.petclinic.owner.OwnerRepository -> org.springframework.samples.petclinic.owner.Owner  spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.owner.OwnerRepository -> org.springframework.transaction.annotation.Transactional not found
+   org.springframework.samples.petclinic.owner.Pet    -> java.lang.Integer                                  
+   org.springframework.samples.petclinic.owner.Pet    -> java.lang.Object                                   
+   org.springframework.samples.petclinic.owner.Pet    -> java.lang.String                                   
+   org.springframework.samples.petclinic.owner.Pet    -> java.time.LocalDate                                
+   org.springframework.samples.petclinic.owner.Pet    -> java.util.ArrayList                                
+   org.springframework.samples.petclinic.owner.Pet    -> java.util.Collection                               
+   org.springframework.samples.petclinic.owner.Pet    -> java.util.Collections                              
+   org.springframework.samples.petclinic.owner.Pet    -> java.util.HashSet                                  
+   org.springframework.samples.petclinic.owner.Pet    -> java.util.LinkedHashSet                            
+   org.springframework.samples.petclinic.owner.Pet    -> java.util.List                                     
+   org.springframework.samples.petclinic.owner.Pet    -> java.util.Set                                      
+   org.springframework.samples.petclinic.owner.Pet    -> javax.persistence.Column                           not found
+   org.springframework.samples.petclinic.owner.Pet    -> javax.persistence.Entity                           not found
+   org.springframework.samples.petclinic.owner.Pet    -> javax.persistence.JoinColumn                       not found
+   org.springframework.samples.petclinic.owner.Pet    -> javax.persistence.ManyToOne                        not found
+   org.springframework.samples.petclinic.owner.Pet    -> javax.persistence.Table                            not found
+   org.springframework.samples.petclinic.owner.Pet    -> javax.persistence.Transient                        not found
+   org.springframework.samples.petclinic.owner.Pet    -> org.springframework.beans.support.MutableSortDefinition not found
+   org.springframework.samples.petclinic.owner.Pet    -> org.springframework.beans.support.PropertyComparator not found
+   org.springframework.samples.petclinic.owner.Pet    -> org.springframework.beans.support.SortDefinition   not found
+   org.springframework.samples.petclinic.owner.Pet    -> org.springframework.format.annotation.DateTimeFormat not found
+   org.springframework.samples.petclinic.owner.Pet    -> org.springframework.samples.petclinic.model.NamedEntity spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.owner.Pet    -> org.springframework.samples.petclinic.owner.Owner  spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.owner.Pet    -> org.springframework.samples.petclinic.owner.PetType spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.owner.Pet    -> org.springframework.samples.petclinic.visit.Visit  spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.owner.PetController -> java.lang.Integer                                  
+   org.springframework.samples.petclinic.owner.PetController -> java.lang.Object                                   
+   org.springframework.samples.petclinic.owner.PetController -> java.lang.String                                   
+   org.springframework.samples.petclinic.owner.PetController -> java.util.Collection                               
+   org.springframework.samples.petclinic.owner.PetController -> java.util.List                                     
+   org.springframework.samples.petclinic.owner.PetController -> javax.validation.Valid                             not found
+   org.springframework.samples.petclinic.owner.PetController -> org.springframework.samples.petclinic.owner.Owner  spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.owner.PetController -> org.springframework.samples.petclinic.owner.OwnerRepository spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.owner.PetController -> org.springframework.samples.petclinic.owner.Pet    spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.owner.PetController -> org.springframework.samples.petclinic.owner.PetRepository spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.owner.PetController -> org.springframework.samples.petclinic.owner.PetType spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.owner.PetController -> org.springframework.samples.petclinic.owner.PetValidator spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.owner.PetController -> org.springframework.stereotype.Controller          not found
+   org.springframework.samples.petclinic.owner.PetController -> org.springframework.ui.ModelMap                    not found
+   org.springframework.samples.petclinic.owner.PetController -> org.springframework.util.StringUtils               not found
+   org.springframework.samples.petclinic.owner.PetController -> org.springframework.validation.BindingResult       not found
+   org.springframework.samples.petclinic.owner.PetController -> org.springframework.validation.Validator           not found
+   org.springframework.samples.petclinic.owner.PetController -> org.springframework.web.bind.WebDataBinder         not found
+   org.springframework.samples.petclinic.owner.PetController -> org.springframework.web.bind.annotation.GetMapping not found
+   org.springframework.samples.petclinic.owner.PetController -> org.springframework.web.bind.annotation.InitBinder not found
+   org.springframework.samples.petclinic.owner.PetController -> org.springframework.web.bind.annotation.ModelAttribute not found
+   org.springframework.samples.petclinic.owner.PetController -> org.springframework.web.bind.annotation.PathVariable not found
+   org.springframework.samples.petclinic.owner.PetController -> org.springframework.web.bind.annotation.PostMapping not found
+   org.springframework.samples.petclinic.owner.PetController -> org.springframework.web.bind.annotation.RequestMapping not found
+   org.springframework.samples.petclinic.owner.PetRepository -> java.lang.Integer                                  
+   org.springframework.samples.petclinic.owner.PetRepository -> java.lang.Object                                   
+   org.springframework.samples.petclinic.owner.PetRepository -> java.util.List                                     
+   org.springframework.samples.petclinic.owner.PetRepository -> org.springframework.data.jpa.repository.Query      not found
+   org.springframework.samples.petclinic.owner.PetRepository -> org.springframework.data.repository.Repository     not found
+   org.springframework.samples.petclinic.owner.PetRepository -> org.springframework.samples.petclinic.owner.Pet    spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.owner.PetRepository -> org.springframework.samples.petclinic.owner.PetType spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.owner.PetRepository -> org.springframework.transaction.annotation.Transactional not found
+   org.springframework.samples.petclinic.owner.PetType -> javax.persistence.Entity                           not found
+   org.springframework.samples.petclinic.owner.PetType -> javax.persistence.Table                            not found
+   org.springframework.samples.petclinic.owner.PetType -> org.springframework.samples.petclinic.model.NamedEntity spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.owner.PetTypeFormatter -> java.lang.Object                                   
+   org.springframework.samples.petclinic.owner.PetTypeFormatter -> java.lang.String                                   
+   org.springframework.samples.petclinic.owner.PetTypeFormatter -> java.lang.StringBuilder                            
+   org.springframework.samples.petclinic.owner.PetTypeFormatter -> java.text.ParseException                           
+   org.springframework.samples.petclinic.owner.PetTypeFormatter -> java.util.Collection                               
+   org.springframework.samples.petclinic.owner.PetTypeFormatter -> java.util.Iterator                                 
+   org.springframework.samples.petclinic.owner.PetTypeFormatter -> java.util.List                                     
+   org.springframework.samples.petclinic.owner.PetTypeFormatter -> java.util.Locale                                   
+   org.springframework.samples.petclinic.owner.PetTypeFormatter -> org.springframework.beans.factory.annotation.Autowired not found
+   org.springframework.samples.petclinic.owner.PetTypeFormatter -> org.springframework.format.Formatter               not found
+   org.springframework.samples.petclinic.owner.PetTypeFormatter -> org.springframework.samples.petclinic.owner.PetRepository spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.owner.PetTypeFormatter -> org.springframework.samples.petclinic.owner.PetType spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.owner.PetTypeFormatter -> org.springframework.stereotype.Component           not found
+   org.springframework.samples.petclinic.owner.PetValidator -> java.lang.Class                                    
+   org.springframework.samples.petclinic.owner.PetValidator -> java.lang.Object                                   
+   org.springframework.samples.petclinic.owner.PetValidator -> java.lang.String                                   
+   org.springframework.samples.petclinic.owner.PetValidator -> java.time.LocalDate                                
+   org.springframework.samples.petclinic.owner.PetValidator -> org.springframework.samples.petclinic.owner.Pet    spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.owner.PetValidator -> org.springframework.samples.petclinic.owner.PetType spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.owner.PetValidator -> org.springframework.util.StringUtils               not found
+   org.springframework.samples.petclinic.owner.PetValidator -> org.springframework.validation.Errors              not found
+   org.springframework.samples.petclinic.owner.PetValidator -> org.springframework.validation.Validator           not found
+   org.springframework.samples.petclinic.owner.VisitController -> java.lang.Integer                                  
+   org.springframework.samples.petclinic.owner.VisitController -> java.lang.Object                                   
+   org.springframework.samples.petclinic.owner.VisitController -> java.lang.String                                   
+   org.springframework.samples.petclinic.owner.VisitController -> java.util.Collection                               
+   org.springframework.samples.petclinic.owner.VisitController -> java.util.List                                     
+   org.springframework.samples.petclinic.owner.VisitController -> java.util.Map                                      
+   org.springframework.samples.petclinic.owner.VisitController -> javax.validation.Valid                             not found
+   org.springframework.samples.petclinic.owner.VisitController -> org.springframework.samples.petclinic.owner.Pet    spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.owner.VisitController -> org.springframework.samples.petclinic.owner.PetRepository spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.owner.VisitController -> org.springframework.samples.petclinic.visit.Visit  spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.owner.VisitController -> org.springframework.samples.petclinic.visit.VisitRepository spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.owner.VisitController -> org.springframework.stereotype.Controller          not found
+   org.springframework.samples.petclinic.owner.VisitController -> org.springframework.validation.BindingResult       not found
+   org.springframework.samples.petclinic.owner.VisitController -> org.springframework.web.bind.WebDataBinder         not found
+   org.springframework.samples.petclinic.owner.VisitController -> org.springframework.web.bind.annotation.GetMapping not found
+   org.springframework.samples.petclinic.owner.VisitController -> org.springframework.web.bind.annotation.InitBinder not found
+   org.springframework.samples.petclinic.owner.VisitController -> org.springframework.web.bind.annotation.ModelAttribute not found
+   org.springframework.samples.petclinic.owner.VisitController -> org.springframework.web.bind.annotation.PathVariable not found
+   org.springframework.samples.petclinic.owner.VisitController -> org.springframework.web.bind.annotation.PostMapping not found
+   org.springframework.samples.petclinic.system.CacheConfiguration -> java.lang.Object                                   
+   org.springframework.samples.petclinic.system.CacheConfiguration -> java.lang.String                                   
+   org.springframework.samples.petclinic.system.CacheConfiguration -> java.lang.invoke.CallSite                          
+   org.springframework.samples.petclinic.system.CacheConfiguration -> java.lang.invoke.LambdaMetafactory                 
+   org.springframework.samples.petclinic.system.CacheConfiguration -> java.lang.invoke.MethodHandle                      
+   org.springframework.samples.petclinic.system.CacheConfiguration -> java.lang.invoke.MethodHandles                     
+   org.springframework.samples.petclinic.system.CacheConfiguration -> java.lang.invoke.MethodHandles$Lookup              
+   org.springframework.samples.petclinic.system.CacheConfiguration -> java.lang.invoke.MethodType                        
+   org.springframework.samples.petclinic.system.CacheConfiguration -> javax.cache.Cache                                  not found
+   org.springframework.samples.petclinic.system.CacheConfiguration -> javax.cache.CacheManager                           not found
+   org.springframework.samples.petclinic.system.CacheConfiguration -> javax.cache.configuration.Configuration            not found
+   org.springframework.samples.petclinic.system.CacheConfiguration -> javax.cache.configuration.MutableConfiguration     not found
+   org.springframework.samples.petclinic.system.CacheConfiguration -> org.springframework.boot.autoconfigure.cache.JCacheManagerCustomizer not found
+   org.springframework.samples.petclinic.system.CacheConfiguration -> org.springframework.cache.annotation.EnableCaching not found
+   org.springframework.samples.petclinic.system.CacheConfiguration -> org.springframework.context.annotation.Bean        not found
+   org.springframework.samples.petclinic.system.CacheConfiguration -> org.springframework.context.annotation.Configuration not found
+   org.springframework.samples.petclinic.system.CrashController -> java.lang.Object                                   
+   org.springframework.samples.petclinic.system.CrashController -> java.lang.RuntimeException                         
+   org.springframework.samples.petclinic.system.CrashController -> java.lang.String                                   
+   org.springframework.samples.petclinic.system.CrashController -> org.springframework.stereotype.Controller          not found
+   org.springframework.samples.petclinic.system.CrashController -> org.springframework.web.bind.annotation.GetMapping not found
+   org.springframework.samples.petclinic.system.WelcomeController -> java.lang.Object                                   
+   org.springframework.samples.petclinic.system.WelcomeController -> java.lang.String                                   
+   org.springframework.samples.petclinic.system.WelcomeController -> org.springframework.stereotype.Controller          not found
+   org.springframework.samples.petclinic.system.WelcomeController -> org.springframework.web.bind.annotation.GetMapping not found
+   org.springframework.samples.petclinic.vet.Specialty -> java.io.Serializable                               
+   org.springframework.samples.petclinic.vet.Specialty -> javax.persistence.Entity                           not found
+   org.springframework.samples.petclinic.vet.Specialty -> javax.persistence.Table                            not found
+   org.springframework.samples.petclinic.vet.Specialty -> org.springframework.samples.petclinic.model.NamedEntity spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.vet.Vet      -> java.lang.Object                                   
+   org.springframework.samples.petclinic.vet.Vet      -> java.lang.String                                   
+   org.springframework.samples.petclinic.vet.Vet      -> java.util.ArrayList                                
+   org.springframework.samples.petclinic.vet.Vet      -> java.util.Collection                               
+   org.springframework.samples.petclinic.vet.Vet      -> java.util.Collections                              
+   org.springframework.samples.petclinic.vet.Vet      -> java.util.HashSet                                  
+   org.springframework.samples.petclinic.vet.Vet      -> java.util.List                                     
+   org.springframework.samples.petclinic.vet.Vet      -> java.util.Set                                      
+   org.springframework.samples.petclinic.vet.Vet      -> javax.persistence.Entity                           not found
+   org.springframework.samples.petclinic.vet.Vet      -> javax.persistence.JoinTable                        not found
+   org.springframework.samples.petclinic.vet.Vet      -> javax.persistence.ManyToMany                       not found
+   org.springframework.samples.petclinic.vet.Vet      -> javax.persistence.Table                            not found
+   org.springframework.samples.petclinic.vet.Vet      -> javax.xml.bind.annotation.XmlElement               
+   org.springframework.samples.petclinic.vet.Vet      -> org.springframework.beans.support.MutableSortDefinition not found
+   org.springframework.samples.petclinic.vet.Vet      -> org.springframework.beans.support.PropertyComparator not found
+   org.springframework.samples.petclinic.vet.Vet      -> org.springframework.beans.support.SortDefinition   not found
+   org.springframework.samples.petclinic.vet.Vet      -> org.springframework.samples.petclinic.model.Person spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.vet.Vet      -> org.springframework.samples.petclinic.vet.Specialty spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.vet.VetController -> java.lang.Object                                   
+   org.springframework.samples.petclinic.vet.VetController -> java.lang.String                                   
+   org.springframework.samples.petclinic.vet.VetController -> java.util.Collection                               
+   org.springframework.samples.petclinic.vet.VetController -> java.util.List                                     
+   org.springframework.samples.petclinic.vet.VetController -> java.util.Map                                      
+   org.springframework.samples.petclinic.vet.VetController -> org.springframework.samples.petclinic.vet.VetRepository spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.vet.VetController -> org.springframework.samples.petclinic.vet.Vets     spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.vet.VetController -> org.springframework.stereotype.Controller          not found
+   org.springframework.samples.petclinic.vet.VetController -> org.springframework.web.bind.annotation.GetMapping not found
+   org.springframework.samples.petclinic.vet.VetController -> org.springframework.web.bind.annotation.ResponseBody not found
+   org.springframework.samples.petclinic.vet.VetRepository -> java.lang.Integer                                  
+   org.springframework.samples.petclinic.vet.VetRepository -> java.lang.Object                                   
+   org.springframework.samples.petclinic.vet.VetRepository -> java.util.Collection                               
+   org.springframework.samples.petclinic.vet.VetRepository -> org.springframework.cache.annotation.Cacheable     not found
+   org.springframework.samples.petclinic.vet.VetRepository -> org.springframework.dao.DataAccessException        not found
+   org.springframework.samples.petclinic.vet.VetRepository -> org.springframework.data.repository.Repository     not found
+   org.springframework.samples.petclinic.vet.VetRepository -> org.springframework.samples.petclinic.vet.Vet      spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.vet.VetRepository -> org.springframework.transaction.annotation.Transactional not found
+   org.springframework.samples.petclinic.vet.Vets     -> java.lang.Object                                   
+   org.springframework.samples.petclinic.vet.Vets     -> java.util.ArrayList                                
+   org.springframework.samples.petclinic.vet.Vets     -> java.util.List                                     
+   org.springframework.samples.petclinic.vet.Vets     -> javax.xml.bind.annotation.XmlElement               
+   org.springframework.samples.petclinic.vet.Vets     -> javax.xml.bind.annotation.XmlRootElement           
+   org.springframework.samples.petclinic.vet.Vets     -> org.springframework.samples.petclinic.vet.Vet      spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.visit.Visit  -> java.lang.Integer                                  
+   org.springframework.samples.petclinic.visit.Visit  -> java.lang.String                                   
+   org.springframework.samples.petclinic.visit.Visit  -> java.time.LocalDate                                
+   org.springframework.samples.petclinic.visit.Visit  -> javax.persistence.Column                           not found
+   org.springframework.samples.petclinic.visit.Visit  -> javax.persistence.Entity                           not found
+   org.springframework.samples.petclinic.visit.Visit  -> javax.persistence.Table                            not found
+   org.springframework.samples.petclinic.visit.Visit  -> javax.validation.constraints.NotEmpty              not found
+   org.springframework.samples.petclinic.visit.Visit  -> org.springframework.format.annotation.DateTimeFormat not found
+   org.springframework.samples.petclinic.visit.Visit  -> org.springframework.samples.petclinic.model.BaseEntity spring-petclinic-2.4.5.jar
+   org.springframework.samples.petclinic.visit.VisitRepository -> java.lang.Integer                                  
+   org.springframework.samples.petclinic.visit.VisitRepository -> java.lang.Object                                   
+   org.springframework.samples.petclinic.visit.VisitRepository -> java.util.List                                     
+   org.springframework.samples.petclinic.visit.VisitRepository -> org.springframework.dao.DataAccessException        not found
+   org.springframework.samples.petclinic.visit.VisitRepository -> org.springframework.data.repository.Repository     not found
+   org.springframework.samples.petclinic.visit.VisitRepository -> org.springframework.samples.petclinic.visit.Visit  spring-petclinic-2.4.5.jar
