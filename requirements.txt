@@ -1,2 +1,6 @@
 jupyter-server-proxy
 ipython-cypher
+pandas
+matplotlib
+pygal
+py2neo
