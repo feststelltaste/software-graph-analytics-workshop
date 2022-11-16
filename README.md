@@ -31,4 +31,4 @@ For more information, visit [https://softwareanalytics.de/](https://softwareanal
 
 ## Feedback? Problems?
 
-This repos is still in early development. Feel free to reach out via new issues or contact Markus via Twitter (https://twitter.com/feststelltaste).
+This repo is still in early development. Feel free to reach out via new issues or contact Markus via Twitter (https://twitter.com/feststelltaste).
